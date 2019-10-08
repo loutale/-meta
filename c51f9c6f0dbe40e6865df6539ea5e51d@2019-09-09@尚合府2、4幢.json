@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "尚合府2、4幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=c51f9c6f0dbe40e6865df6539ea5e51d",
+    "datetime": "2019-09-09 08:39:19"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=c51f9c6f0dbe40e6865df6539ea5e51d",
+    "items": [
+      {
+        "title": "“尚合府2、4幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=21bfe8616d8149c9b8d4b9c7d32200da",
+        "datetime": "2019-09-09 08:39:49"
+      },
+      {
+        "title": "“尚合府2、4幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=4533a9ee4f614c0c85dc246c18ebdf2d",
+        "datetime": "2019-09-10 09:21:38"
+      },
+      {
+        "title": "“尚合府2、4幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=509ff4b4b302401e9024b76185033b2a",
+        "datetime": "2019-09-09 08:44:29"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0909/190909084413811_22374432776848978.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0910/190910092127857_22463067266994550.pdf"
+}

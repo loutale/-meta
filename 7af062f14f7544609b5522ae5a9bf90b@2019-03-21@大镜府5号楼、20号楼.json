@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "大镜府5号楼、20号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=7af062f14f7544609b5522ae5a9bf90b",
+    "datetime": "2019-03-21 08:46:59"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=7af062f14f7544609b5522ae5a9bf90b",
+    "items": [
+      {
+        "title": "“大镜府5号楼、20号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=07537afc353e4a78b620f29785b6b129",
+        "datetime": "2019-03-21 08:50:58"
+      },
+      {
+        "title": "“大镜府5号楼、20号楼”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=4c469f00ecbd4ae98924b9ccb846d4f2",
+        "datetime": "2019-03-22 10:51:00"
+      },
+      {
+        "title": "“大镜府5号楼、20号楼”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=91a890a6a8004df293a3bfac0c2fbb54",
+        "datetime": "2019-03-21 08:48:38"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0321/190321085039316_7514015127601197.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0322/190322105053863_7607629021628734.pdf"
+}

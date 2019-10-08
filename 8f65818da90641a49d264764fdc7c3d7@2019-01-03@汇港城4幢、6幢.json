@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "汇港城4幢、6幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=8f65818da90641a49d264764fdc7c3d7",
+    "datetime": "2019-01-03 08:35:14"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=8f65818da90641a49d264764fdc7c3d7",
+    "items": [
+      {
+        "title": "“汇港城4幢、6幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=57e5f5ca2a82486180df80965f25deaa",
+        "datetime": "2019-01-03 08:42:57"
+      },
+      {
+        "title": "“汇港城4幢、6幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=8eff734320564826b08d365b13bd716a",
+        "datetime": "2019-01-04 09:22:59"
+      },
+      {
+        "title": "“汇港城4幢、6幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=acf8ccf9c1194df2b65cd73feb77e8c2",
+        "datetime": "2019-01-03 08:35:49"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0103/190103102823294_867079900982737.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0104/190104092250466_949547103476072.pdf"
+}

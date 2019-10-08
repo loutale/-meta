@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "龙沁城1、2、3、4、5幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=0d37d6b6abaa4914853fa15fb6b93898",
+    "datetime": "2018-06-23 23:20:43"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=0d37d6b6abaa4914853fa15fb6b93898",
+    "items": [
+      {
+        "title": "“龙沁城1、2、3、4、5幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=8d560117530b43098f1e25c16d9885a2",
+        "datetime": "2018-06-23 23:23:46"
+      },
+      {
+        "title": "“龙沁城1、2、3、4、5幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a5d514c4971145fdba4d57f43a485ca0",
+        "datetime": "2018-06-23 23:27:04"
+      },
+      {
+        "title": "“龙沁城1、2、3、4、5幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=bfa0bac5017f431b95410a6bf4f1f41a",
+        "datetime": "2018-06-25 10:56:31"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0623/180623233316562_329641324217026.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0625/180625105808376_457137542276949.pdf"
+}

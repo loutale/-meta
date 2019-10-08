@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "佳印府14#楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=ed2f7aa751f14df0ad35cc006d40e5fb",
+    "datetime": "2019-07-27 01:26:28"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=ed2f7aa751f14df0ad35cc006d40e5fb",
+    "items": [
+      {
+        "title": "“佳印府14#楼”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=0a186301172f4d9896ecabe6fd657118",
+        "datetime": "2019-07-27 01:26:50"
+      },
+      {
+        "title": "“佳印府14#楼”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=61f318183ef342d2bee6ab026e167b08",
+        "datetime": "2019-07-28 09:20:40"
+      },
+      {
+        "title": "“佳印府14#楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=c3be00c75b8e4c64b1952a1fee3da521",
+        "datetime": "2019-07-27 01:31:00"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0727/190727013043937_18546819493090390.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0728/190728092035890_18661411566751053.pdf"
+}

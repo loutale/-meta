@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "紫樾府1幢、6幢、7幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=1d9b956c77324138b2b99c45a0d649cb",
+    "datetime": "2018-09-23 22:12:58"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=1d9b956c77324138b2b99c45a0d649cb",
+    "items": [
+      {
+        "title": "“紫樾府1幢、6幢、7幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=39f1e15907b54f40b9c10a54c224a6bf",
+        "datetime": "2018-09-23 22:21:33"
+      },
+      {
+        "title": "“紫樾府1幢、6幢、7幢”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=7c6db67ea89c4bba89bc5b668431136e",
+        "datetime": "2018-09-23 22:15:51"
+      },
+      {
+        "title": "“紫樾府1幢、6幢、7幢”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=99b050267fc94eb9899a6a64f7254f4f",
+        "datetime": "2018-09-25 09:22:31"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0923/180923222107301_437999847335124.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0925/180925092214673_564071711330653.pdf"
+}

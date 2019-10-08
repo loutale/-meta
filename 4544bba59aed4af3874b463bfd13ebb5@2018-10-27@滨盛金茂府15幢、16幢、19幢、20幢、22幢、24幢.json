@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "滨盛金茂府15幢、16幢、19幢、20幢、22幢、24幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=4544bba59aed4af3874b463bfd13ebb5",
+    "datetime": "2018-10-27 08:27:28"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=4544bba59aed4af3874b463bfd13ebb5",
+    "items": [
+      {
+        "title": "“滨盛金茂府15幢、16幢、19幢、20幢、22幢、24幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=38c0e3fc309d46cba6af69521d7b1b64",
+        "datetime": "2018-10-27 08:31:41"
+      },
+      {
+        "title": "“滨盛金茂府15幢、16幢、19幢、20幢、22幢、24幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=50e9d89d9511467688fd4aef20d97848",
+        "datetime": "2018-10-28 10:18:56"
+      },
+      {
+        "title": "“滨盛金茂府15幢、16幢、19幢、20幢、22幢、24幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=d69ee6ae663c4689b6a22953b3e55223",
+        "datetime": "2018-10-27 08:27:52"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1027/181027083122464_3325812006490511.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/1028/181028101849566_3418659589846502.pdf"
+}

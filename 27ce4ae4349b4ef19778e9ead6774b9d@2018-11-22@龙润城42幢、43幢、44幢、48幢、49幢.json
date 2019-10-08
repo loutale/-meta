@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "龙润城42幢、43幢、44幢、48幢、49幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=27ce4ae4349b4ef19778e9ead6774b9d",
+    "datetime": "2018-11-22 09:00:52"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=27ce4ae4349b4ef19778e9ead6774b9d",
+    "items": [
+      {
+        "title": "“龙润城42幢、43幢、44幢、48幢、49幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=1a0bd02ad8fa490aa2bb458414aac985",
+        "datetime": "2018-11-22 09:07:15"
+      },
+      {
+        "title": "“龙润城42幢、43幢、44幢、48幢、49幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=8f6d31b628bb4a468bee542938c5ce11",
+        "datetime": "2018-11-23 10:51:44"
+      },
+      {
+        "title": "“龙润城42幢、43幢、44幢、48幢、49幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=afb67745fb8a4531b10b9172a97cd919",
+        "datetime": "2018-11-22 09:03:03"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1122/181122090639936_5574329315272610.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/1123/181123105131521_5667021432069631.pdf"
+}

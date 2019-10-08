@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "颐品轩1#楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=88efc695dd65469aae5260b507fa760c",
+    "datetime": "2019-07-25 13:41:14"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=88efc695dd65469aae5260b507fa760c",
+    "items": [
+      {
+        "title": "“颐品轩1#楼”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=39425caea3b24975904bc4d574fdfb50",
+        "datetime": "2019-07-26 14:20:47"
+      },
+      {
+        "title": "“颐品轩1#楼”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=b53cf6b6ed32451092dd291322b757d7",
+        "datetime": "2019-07-25 13:42:24"
+      },
+      {
+        "title": "“颐品轩1#楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=f2350a3f13de46cd8353e346b88b6cb0",
+        "datetime": "2019-07-25 13:43:12"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0725/190725134305000_18417960157736573.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0726/190726142041625_18506616451348976.pdf"
+}

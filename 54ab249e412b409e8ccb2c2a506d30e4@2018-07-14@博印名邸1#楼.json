@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "博印名邸1#楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=54ab249e412b409e8ccb2c2a506d30e4",
+    "datetime": "2018-07-14 21:24:21"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=54ab249e412b409e8ccb2c2a506d30e4",
+    "items": [
+      {
+        "title": "“博印名邸1#楼”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=4967bc0cd48b4a419472255d6297847d",
+        "datetime": "2018-07-14 21:26:05"
+      },
+      {
+        "title": "“博印名邸1#楼”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=c660420db68346af9d25d70c32d2a844",
+        "datetime": "2018-07-16 11:56:50"
+      },
+      {
+        "title": "“博印名邸1#楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=e8537836361e462a9f106c4ae63e9e08",
+        "datetime": "2018-07-14 21:29:16"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0714/180714213318517_1314217898727716.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0716/180716115608301_1452544710550775.pdf"
+}

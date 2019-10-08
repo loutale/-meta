@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "珑玺公寓",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=13a2986cee6f427b93d9966c4d2d3c08",
+    "datetime": "2018-06-23 23:45:16"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=13a2986cee6f427b93d9966c4d2d3c08",
+    "items": [
+      {
+        "title": "“珑玺公寓”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=6c1a7f987ed64c858aee1129367af256",
+        "datetime": "2018-06-25 15:00:03"
+      },
+      {
+        "title": "“珑玺公寓”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=b0043f11403747cfba0209ad5db3dd90",
+        "datetime": "2018-06-23 23:45:57"
+      },
+      {
+        "title": "“珑玺公寓”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=db8821e3d73d4c39a60cd21735f33ec4",
+        "datetime": "2018-06-23 23:48:25"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0623/180623235013947_330658782688171.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0625/180625150153573_471763262380226.pdf"
+}

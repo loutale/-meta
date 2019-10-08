@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "西之望府1幢、2幢、3幢、6幢、7幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=9a92cdecef404156884b65f0f4c3059e",
+    "datetime": "2018-12-27 08:38:11"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=9a92cdecef404156884b65f0f4c3059e",
+    "items": [
+      {
+        "title": "“西之望府1幢、2幢、3幢、6幢、7幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=17f8d328a7fd424db2eb29de44ab04ce",
+        "datetime": "2018-12-27 08:38:34"
+      },
+      {
+        "title": "“西之望府1幢、2幢、3幢、6幢、7幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=bf94b40444254ec4936b034ce159d3f4",
+        "datetime": "2018-12-27 08:48:08"
+      },
+      {
+        "title": "“西之望府1幢、2幢、3幢、6幢、7幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=f7f95e24c3cd49529d968c74564766f6",
+        "datetime": "2018-12-28 10:50:38"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1227/181227084750439_256247656250057.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/1228/181228105030095_350007342341509.pdf"
+}

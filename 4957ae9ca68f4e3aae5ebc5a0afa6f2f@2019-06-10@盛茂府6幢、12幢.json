@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "盛茂府6幢、12幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=4957ae9ca68f4e3aae5ebc5a0afa6f2f",
+    "datetime": "2019-06-10 10:48:35"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=4957ae9ca68f4e3aae5ebc5a0afa6f2f",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=b1dbbdcd8c3147e3932479744f56ec1c",
+        "datetime": "2019-06-10 10:48:52"
+      },
+      {
+        "title": "盛茂府6幢、12幢 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=bd4d7ee8317343ed90021208520fd028",
+        "datetime": "2019-06-10 10:52:55"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0610/190610105232760_14519728399374940.pdf"
+}

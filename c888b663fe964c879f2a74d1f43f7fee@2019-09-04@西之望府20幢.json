@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "西之望府20幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=c888b663fe964c879f2a74d1f43f7fee",
+    "datetime": "2019-09-04 08:21:48"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=c888b663fe964c879f2a74d1f43f7fee",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=dd9962efc9724b78897b25484f3312ff",
+        "datetime": "2019-09-04 08:22:06"
+      },
+      {
+        "title": "西之望府20幢 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=f124b222473348fd96bff98e106941aa",
+        "datetime": "2019-09-04 08:24:24"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0904/190904082405873_21941223290432346.pdf"
+}

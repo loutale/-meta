@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "臻华府2幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=89b79664ae7e43aab18005b3d5180344",
+    "datetime": "2019-04-18 15:53:23"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=89b79664ae7e43aab18005b3d5180344",
+    "items": [
+      {
+        "title": "“臻华府2幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=37b028438f5e414995546eee0462bfa6",
+        "datetime": "2019-04-19 16:38:44"
+      },
+      {
+        "title": "“臻华府2幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=470ac32638bf420380253d5b53e8e80a",
+        "datetime": "2019-04-18 16:01:31"
+      },
+      {
+        "title": "“臻华府2幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=e865ed63fb6c40dbba28e60d37cd7669",
+        "datetime": "2019-04-18 16:00:44"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0418/190418160112670_9959047735480552.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0419/190419163836827_10047692760056218.pdf"
+}

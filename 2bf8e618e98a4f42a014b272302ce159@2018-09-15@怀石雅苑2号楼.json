@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "怀石雅苑2号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2bf8e618e98a4f42a014b272302ce159",
+    "datetime": "2018-09-15 09:12:28"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2bf8e618e98a4f42a014b272302ce159",
+    "items": [
+      {
+        "title": "“怀石雅苑2号楼”销售公开摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=78b12707737541c7b9689c93372d4c72",
+        "datetime": "2018-09-15 09:12:48"
+      },
+      {
+        "title": "“怀石雅苑2号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=983d341c2c104874b58629fbaa480575",
+        "datetime": "2018-09-15 09:25:13"
+      },
+      {
+        "title": "“怀石雅苑2号楼”销售公开摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=b7b41d599364419b9331ae0da0aa5a08",
+        "datetime": "2018-09-16 11:08:52"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0915/180915092457919_6713847061485353.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0916/180916110842771_6806471839657900.pdf"
+}

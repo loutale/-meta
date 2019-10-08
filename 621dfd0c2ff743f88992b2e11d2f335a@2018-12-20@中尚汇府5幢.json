@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "中尚汇府5幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=621dfd0c2ff743f88992b2e11d2f335a",
+    "datetime": "2018-12-20 16:09:50"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=621dfd0c2ff743f88992b2e11d2f335a",
+    "items": [
+      {
+        "title": "“中尚汇府5幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=157eefd5bcea459a8f814f8b71cf226a",
+        "datetime": "2018-12-20 16:21:15"
+      },
+      {
+        "title": "“中尚汇府5幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=7ae3f95ecba340de80083800b5045bab",
+        "datetime": "2018-12-21 16:47:19"
+      },
+      {
+        "title": "“中尚汇府5幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=d3c69cf2ba27434a8d69b7d2889046f9",
+        "datetime": "2018-12-20 16:10:33"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1220/181220162048240_8019578253716307.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/1221/181221164713724_8107563667440073.pdf"
+}

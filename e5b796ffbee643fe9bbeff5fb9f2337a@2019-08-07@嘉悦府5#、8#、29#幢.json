@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "嘉悦府5#、8#、29#幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=e5b796ffbee643fe9bbeff5fb9f2337a",
+    "datetime": "2019-08-07 08:32:32"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=e5b796ffbee643fe9bbeff5fb9f2337a",
+    "items": [
+      {
+        "title": "“嘉悦府5#、8#、29#幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=07f7e28aa19d45118c6cc1a2d44f4d32",
+        "datetime": "2019-08-07 08:35:15"
+      },
+      {
+        "title": "“嘉悦府5#、8#、29#幢”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=517496987c714ce2928f79802167e7cb",
+        "datetime": "2019-08-07 08:33:12"
+      },
+      {
+        "title": "“嘉悦府5#、8#、29#幢”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=8a72062651a24c4bb65b1b2da816945d",
+        "datetime": "2019-08-08 09:21:57"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0807/190807083455600_19522670477973002.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0808/190808092152705_19611888318095599.pdf"
+}

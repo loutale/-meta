@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "杭栢城4#、7#楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=9fc7b56e61fb42e398e44912cb2ce0cd",
+    "datetime": "2018-09-19 18:05:11"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=9fc7b56e61fb42e398e44912cb2ce0cd",
+    "items": [
+      {
+        "title": "“杭栢城4#、7#楼”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=47268a7e3bda484f907cecb3f1757347",
+        "datetime": "2018-09-19 18:05:36"
+      },
+      {
+        "title": "“杭栢城4#、7#楼”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=83887a6be4064a57b9109c2f6334174c",
+        "datetime": "2018-09-20 18:38:32"
+      },
+      {
+        "title": "“杭栢城4#、7#楼”购房登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=febd999866ac4af9813cb1cfb2d1235a",
+        "datetime": "2018-09-19 18:08:35"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0919/180919180749088_77198936724600.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0920/180920183822659_165432806135045.pdf"
+}

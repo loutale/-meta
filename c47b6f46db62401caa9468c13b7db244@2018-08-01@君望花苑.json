@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "君望花苑",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=c47b6f46db62401caa9468c13b7db244",
+    "datetime": "2018-08-01 14:56:55"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=c47b6f46db62401caa9468c13b7db244",
+    "items": [
+      {
+        "title": "“君望花苑”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=04532748a71748e990d8fb2be79fe0d4",
+        "datetime": "2018-08-01 14:57:40"
+      },
+      {
+        "title": "“君望花苑”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=9e677e7520a04456ae4a75c0640252df",
+        "datetime": "2018-08-02 15:45:14"
+      },
+      {
+        "title": "“君望花苑”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=c8c8f081317546edbcc8ab07c79181e6",
+        "datetime": "2018-08-01 15:05:41"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0801/180801150249507_2846129063503303.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0802/180802154445849_2935049548108046.pdf"
+}

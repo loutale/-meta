@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "汇雅轩2、3、7幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=c9ea0ff2ae3047bdb5fb478cf5cddb83",
+    "datetime": "2019-03-01 09:39:12"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=c9ea0ff2ae3047bdb5fb478cf5cddb83",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=0085bec93f3b4442ba422f2dc07f627d",
+        "datetime": "2019-03-01 09:40:59"
+      },
+      {
+        "title": "汇雅轩2、3、7幢 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=500c21a493e249cbb2d8c0e611ec7fcf",
+        "datetime": "2019-03-01 09:45:28"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0301/190301094515786_5789294209357829.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "御江南华庭1幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=f91f7f9ead294e0385eb5a321604a314",
+    "datetime": "2018-08-21 08:51:19"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=f91f7f9ead294e0385eb5a321604a314",
+    "items": [
+      {
+        "title": "“御江南华庭1幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a75c74738b1d461f8eff05b797987335",
+        "datetime": "2018-08-21 08:57:43"
+      },
+      {
+        "title": "“御江南华庭1幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ddc00cf9867344f8af69d7a0feb17a8f",
+        "datetime": "2018-08-22 10:19:19"
+      },
+      {
+        "title": "“御江南华庭1幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=f5e6689ea23a4f7eae0b9b30224b3587",
+        "datetime": "2018-08-21 08:54:17"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0821/180821085714176_4552198957436913.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0822/180822101853394_4643501496512908.pdf"
+}

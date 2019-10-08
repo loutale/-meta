@@ -1,0 +1,34 @@
+{
+  "item": {
+    "title": "尚合府1、5、6幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=1ca114af74034bea945613ef1dea9ec9",
+    "datetime": "2019-08-03 18:26:19"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=1ca114af74034bea945613ef1dea9ec9",
+    "items": [
+      {
+        "title": "补充公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=468f4f5ad2e64d52bcbcfd1889a08347",
+        "datetime": "2019-08-05 09:22:44"
+      },
+      {
+        "title": "“尚合府1、5、6幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=93c23993a9c442129a424789483eb621",
+        "datetime": "2019-08-03 18:26:49"
+      },
+      {
+        "title": "“尚合府1、5、6幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=d0d4dd8f49214e5f9c65cbd9fe700c26",
+        "datetime": "2019-08-05 09:23:15"
+      },
+      {
+        "title": "“尚合府1、5、6幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=d36ea28faecf4ee4bdbc402519ae189e",
+        "datetime": "2019-08-03 18:29:36"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0803/190803182920865_19212736384035625.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0805/190805092311303_19352767089184340.pdf"
+}

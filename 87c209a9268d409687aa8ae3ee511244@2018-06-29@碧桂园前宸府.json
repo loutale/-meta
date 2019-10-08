@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "碧桂园前宸府",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=87c209a9268d409687aa8ae3ee511244",
+    "datetime": "2018-06-29 08:57:41"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=87c209a9268d409687aa8ae3ee511244",
+    "items": [
+      {
+        "title": "“碧桂园前宸府”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=120179e26bc9421b83e573dd339c52da",
+        "datetime": "2018-06-29 09:03:14"
+      },
+      {
+        "title": "“碧桂园前宸府”销售公开摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=3eefa1d4d4e1478788652aef12065249",
+        "datetime": "2018-06-29 08:58:19"
+      },
+      {
+        "title": "“碧桂园前宸府”销售公开摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=632d676d4bb6415891938184e13dac6d",
+        "datetime": "2018-06-30 09:58:00"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0629/180629091042195_796307946471896.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0630/180630095930031_63015927356851.pdf"
+}

@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "水云城16号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2499e9bbeab240c280e9ae1c9b28122f",
+    "datetime": "2019-01-25 15:55:35"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2499e9bbeab240c280e9ae1c9b28122f",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=4c6e20ec13f84c73bb2253cbfaa1686e",
+        "datetime": "2019-01-25 15:57:15"
+      },
+      {
+        "title": "水云城16号楼 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=8df259712ab74124a33e338f0026377c",
+        "datetime": "2019-01-25 16:02:05"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0125/190125160151911_2787886638230650.pdf"
+}

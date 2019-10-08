@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "国樾湾1#楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=b37473291fba4230b600ae63c4c9d955",
+    "datetime": "2019-07-17 08:45:12"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=b37473291fba4230b600ae63c4c9d955",
+    "items": [
+      {
+        "title": "“国樾湾1#楼”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=6b101c05f7da451db194a9fffbe754b6",
+        "datetime": "2019-07-17 08:46:51"
+      },
+      {
+        "title": "“国樾湾1#楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=9d536615725243fe832081b3e6d59c87",
+        "datetime": "2019-07-17 08:52:09"
+      },
+      {
+        "title": "“国樾湾1#楼”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=bd2120bfea514e2a94d80e82d40c3788",
+        "datetime": "2019-07-18 09:52:14"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0717/190717091127772_17710463715219738.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0718/190718095206458_17799301937815018.pdf"
+}

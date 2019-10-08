@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "玺上庭",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=cbede1f507924eacb7d0e0dc9dbc0298",
+    "datetime": "2018-06-19 09:11:52"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=cbede1f507924eacb7d0e0dc9dbc0298",
+    "items": [
+      {
+        "title": "“玺上庭”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=134abc2e3d5140b6a17bc1f1fa476d43",
+        "datetime": "2018-06-19 09:12:49"
+      },
+      {
+        "title": "“玺上庭”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=9b3b80a515f44fce9f14b36538f32ea1",
+        "datetime": "2018-06-19 09:37:01"
+      },
+      {
+        "title": "“玺上庭”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=9b5d0cd5758644b488025f83bce8aebe",
+        "datetime": "2018-06-20 11:00:56"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0619/180619120905855_331501950637882.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0620/180620110253770_25408143158013.pdf"
+}

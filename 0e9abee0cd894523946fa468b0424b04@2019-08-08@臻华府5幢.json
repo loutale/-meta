@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "臻华府5幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=0e9abee0cd894523946fa468b0424b04",
+    "datetime": "2019-08-08 15:54:35"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=0e9abee0cd894523946fa468b0424b04",
+    "items": [
+      {
+        "title": "“臻华府5幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=0d365f4add3a4499961b400a382ddd10",
+        "datetime": "2019-08-09 16:28:33"
+      },
+      {
+        "title": "“臻华府5幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a7cb2be4c4bc4aa0ad1ce503e2f2d9e5",
+        "datetime": "2019-08-08 15:59:39"
+      },
+      {
+        "title": "“臻华府5幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=c73ecf6fbc344c8f99b2430b542b927b",
+        "datetime": "2019-08-08 15:55:10"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0808/190808155921667_19635731764715782.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0809/190809162819698_19723875261427413.pdf"
+}

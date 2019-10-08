@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "前湾中区2幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=f8e4f50113fd4f12b399426887b6b8c5",
+    "datetime": "2019-01-22 09:29:58"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=f8e4f50113fd4f12b399426887b6b8c5",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=17621865a2c44bfd9e04231911fe27cb",
+        "datetime": "2019-01-22 09:30:45"
+      },
+      {
+        "title": "前湾中区2幢 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=d4a930958abe4292948b29bf5f7ddaff",
+        "datetime": "2019-01-22 09:32:10"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0122/190122093153536_2505289489067734.pdf"
+}

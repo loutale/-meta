@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "十锦台公寓10幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=b9bdf5ea18d44859b26d3b4e0eb2d64e",
+    "datetime": "2018-10-21 08:17:09"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=b9bdf5ea18d44859b26d3b4e0eb2d64e",
+    "items": [
+      {
+        "title": "公    告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=895a1072f4994d748a8ae31979d58227",
+        "datetime": "2018-10-21 08:17:34"
+      },
+      {
+        "title": "十锦台公寓10幢 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a56133a90e6f40d9a66e85144a5d68f3",
+        "datetime": "2018-10-21 08:19:08"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1021/181021081854441_2806666221192138.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "春暖花都22幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2ee3c09fe7fe41658f8613f6332be43a",
+    "datetime": "2018-10-06 09:41:16"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2ee3c09fe7fe41658f8613f6332be43a",
+    "items": [
+      {
+        "title": "“春暖花都22幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=4a7b99007d7041b5a5336310da088073",
+        "datetime": "2018-10-06 09:41:43"
+      },
+      {
+        "title": "“春暖花都22幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=9837715e6f184d43a86af2a0ea66b0dc",
+        "datetime": "2018-10-06 09:43:34"
+      },
+      {
+        "title": "春暖花都22幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=f65d587cbc09461ea09276d8d351d6e7",
+        "datetime": "2018-10-08 14:46:20"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1006/181006094311632_1515721557725871.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/1008/181008144610586_1706700583962746.pdf"
+}

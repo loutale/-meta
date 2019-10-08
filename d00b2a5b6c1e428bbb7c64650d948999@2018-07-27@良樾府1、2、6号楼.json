@@ -1,0 +1,34 @@
+{
+  "item": {
+    "title": "良樾府1、2、6号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=d00b2a5b6c1e428bbb7c64650d948999",
+    "datetime": "2018-07-27 23:53:17"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=d00b2a5b6c1e428bbb7c64650d948999",
+    "items": [
+      {
+        "title": "“良樾府1、2、6号楼 ”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=02c2fc32cf58407fa638418e9105e0b0",
+        "datetime": "2018-07-27 23:57:15"
+      },
+      {
+        "title": "“良樾府1、2、6号楼 ”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=0b416af2b47941adbe915ee1a2352430",
+        "datetime": "2018-07-27 23:53:46"
+      },
+      {
+        "title": "“良樾府1、2、6号楼 ”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=2ae82d65c8b64413a6cd2f5515499cab",
+        "datetime": "2018-07-29 08:49:22"
+      },
+      {
+        "title": "“良樾府1、2、6号楼”公开销售公证摇号补充公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ff04dd759edf4c538559b09e045af87a",
+        "datetime": "2018-07-28 14:34:34"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0727/180727235652084_2446158659737474.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0729/180729084909472_2564500201143585.pdf"
+}

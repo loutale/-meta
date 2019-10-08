@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "云蔚轩1#、11#",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=1a7b0cdf141744d59e5d24348abc7e7c",
+    "datetime": "2019-04-27 08:34:13"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=1a7b0cdf141744d59e5d24348abc7e7c",
+    "items": [
+      {
+        "title": "“云蔚轩1#、11#”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=0b789e2f3b6b48848460f88cda641df4",
+        "datetime": "2019-04-27 08:34:46"
+      },
+      {
+        "title": "“云蔚轩1#、11#”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=11bee73e3c204521ab4fd3eb2da3a3aa",
+        "datetime": "2019-04-28 09:21:04"
+      },
+      {
+        "title": "“云蔚轩1#、11#”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=50c5c3c7ddf746daaef04e9c3bebfa52",
+        "datetime": "2019-04-27 08:37:29"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0427/190427083711695_10710007189353369.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0428/190428092057413_10799033618219737.pdf"
+}

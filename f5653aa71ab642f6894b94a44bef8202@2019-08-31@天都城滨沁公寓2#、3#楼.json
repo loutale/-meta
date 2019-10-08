@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "天都城滨沁公寓2#、3#楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=f5653aa71ab642f6894b94a44bef8202",
+    "datetime": "2019-08-31 08:17:53"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=f5653aa71ab642f6894b94a44bef8202",
+    "items": [
+      {
+        "title": "“天都城滨沁公寓2#、3#楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=18cb79237894494f91a4ed66a360bfb5",
+        "datetime": "2019-08-31 08:29:04"
+      },
+      {
+        "title": "“天都城滨沁公寓2#、3#楼”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=19af1138a6a744108cbdb1c673e1f299",
+        "datetime": "2019-08-31 08:18:38"
+      },
+      {
+        "title": "“天都城滨沁公寓2#、3#楼”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=e54a93765c554aefb7462948e038c441",
+        "datetime": "2019-09-01 09:28:08"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0831/190831082817998_21595872891195150.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0901/190901092800326_21685857421834595.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "汀宸府1幢、2幢、5幢、7幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=4e7347f8754a446299660215cd3a64d5",
+    "datetime": "2019-09-06 09:57:37"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=4e7347f8754a446299660215cd3a64d5",
+    "items": [
+      {
+        "title": "“汀宸府1幢、2幢、5幢、7幢” 公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=45a362284caa404eb249f7be8c6087e6",
+        "datetime": "2019-09-07 10:22:32"
+      },
+      {
+        "title": "“汀宸府1幢、2幢、5幢、7幢” 公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=856160ec13b04bc3a0b9c0f4c98b8e43",
+        "datetime": "2019-09-06 09:59:18"
+      },
+      {
+        "title": "“汀宸府1幢、2幢、5幢、7幢” 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a3633d3ec6184628b3c727acbf12e03b",
+        "datetime": "2019-09-06 10:04:30"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0906/190906100405826_22120023625868680.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0907/190907102224311_22207522733248819.pdf"
+}

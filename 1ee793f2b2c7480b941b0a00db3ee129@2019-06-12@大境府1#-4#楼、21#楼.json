@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "大境府1#-4#楼、21#楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=1ee793f2b2c7480b941b0a00db3ee129",
+    "datetime": "2019-06-12 11:12:29"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=1ee793f2b2c7480b941b0a00db3ee129",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=1653a3e6049d4c7f82ad2b246d4310c4",
+        "datetime": "2019-06-12 11:12:52"
+      },
+      {
+        "title": "大境府1#-4#楼、21#楼 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=294c3f93cf414023a0fb3a3c1035b582",
+        "datetime": "2019-06-12 12:00:23"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0612/190612120006447_14696582649700101.pdf"
+}

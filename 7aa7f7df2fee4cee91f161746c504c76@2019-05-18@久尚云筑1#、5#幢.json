@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "久尚云筑1#、5#幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=7aa7f7df2fee4cee91f161746c504c76",
+    "datetime": "2019-05-18 17:35:48"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=7aa7f7df2fee4cee91f161746c504c76",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=7069b5c35a6b4b77bb856afd14a0cec8",
+        "datetime": "2019-05-18 17:36:16"
+      },
+      {
+        "title": "久尚云筑1#、5#幢 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ad51479661834c29a9f70587edd00332",
+        "datetime": "2019-05-18 17:40:13"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0518/190518173947305_12556963093250578.pdf"
+}

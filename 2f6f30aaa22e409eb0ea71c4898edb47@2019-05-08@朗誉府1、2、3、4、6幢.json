@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "朗誉府1、2、3、4、6幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2f6f30aaa22e409eb0ea71c4898edb47",
+    "datetime": "2019-05-08 08:31:59"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2f6f30aaa22e409eb0ea71c4898edb47",
+    "items": [
+      {
+        "title": "“朗誉府1、2、3、4、6幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=9153c1b9217a4411a934dd9b7339ed94",
+        "datetime": "2019-05-09 09:49:04"
+      },
+      {
+        "title": "“朗誉府1、2、3、4、6幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=bc92bab4261d4ebfb641769440c5bd1e",
+        "datetime": "2019-05-08 08:41:50"
+      },
+      {
+        "title": "“朗誉府1、2、3、4、6幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=e991f11c894346b7ac8d2c885e824659",
+        "datetime": "2019-05-08 08:33:12"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0508/190508084126945_11660663989518416.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0509/190509094856042_11751110481183246.pdf"
+}

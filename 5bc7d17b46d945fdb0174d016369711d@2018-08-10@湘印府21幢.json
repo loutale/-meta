@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "湘印府21幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=5bc7d17b46d945fdb0174d016369711d",
+    "datetime": "2018-08-10 21:06:29"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=5bc7d17b46d945fdb0174d016369711d",
+    "items": [
+      {
+        "title": "“湘印府21幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=3554f3752fc84e33b96181730f903aa2",
+        "datetime": "2018-08-10 21:07:49"
+      },
+      {
+        "title": "“湘印府21幢”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=86b1e50ed14241258fe8030431aac083",
+        "datetime": "2018-08-12 09:26:26"
+      },
+      {
+        "title": "“湘印府21幢”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a2b32429290946f185e39aff8569e5ec",
+        "datetime": "2018-08-10 21:07:27"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0810/180810210802495_3645670820029691.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0812/180812092557042_3776289624468498.pdf"
+}

@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "新越锦粼府4#",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=77ebf1c743074cb69eaf792ca8344c9e",
+    "datetime": "2019-05-16 20:05:44"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=77ebf1c743074cb69eaf792ca8344c9e",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a6a1b33f10634a0c9579fa5a72b88516",
+        "datetime": "2019-05-16 20:05:59"
+      },
+      {
+        "title": "新越锦粼府4# 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=d9b8ebc803bb4bfebebc9355bbea1901",
+        "datetime": "2019-05-16 20:10:09"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0516/190516200953149_12393168255067359.pdf"
+}

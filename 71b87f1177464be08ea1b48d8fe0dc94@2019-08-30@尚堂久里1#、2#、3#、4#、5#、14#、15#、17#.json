@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "尚堂久里1#、2#、3#、4#、5#、14#、15#、17#",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=71b87f1177464be08ea1b48d8fe0dc94",
+    "datetime": "2019-08-30 15:39:00"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=71b87f1177464be08ea1b48d8fe0dc94",
+    "items": [
+      {
+        "title": "“尚堂久里1#、2#、3#、4#、5#、14#、15#、17#”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=14745d78441c42939011d0ecbb0d81f9",
+        "datetime": "2019-08-31 15:58:03"
+      },
+      {
+        "title": "“尚堂久里1#、2#、3#、4#、5#、14#、15#、17#”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=64f1712cc9aa4a88b410ff09d37544d0",
+        "datetime": "2019-08-30 15:40:06"
+      },
+      {
+        "title": "“尚堂久里1#、2#、3#、4#、5#、14#、15#、17#”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=fdee9e3d983849f29673b146f3d0d250",
+        "datetime": "2019-08-30 15:39:21"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0830/190830160538701_21536914601364215.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0831/190831155757951_21622854941306472.pdf"
+}

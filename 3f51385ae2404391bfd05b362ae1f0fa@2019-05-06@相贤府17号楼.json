@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "相贤府17号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=3f51385ae2404391bfd05b362ae1f0fa",
+    "datetime": "2019-05-06 09:17:27"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=3f51385ae2404391bfd05b362ae1f0fa",
+    "items": [
+      {
+        "title": "“相贤府17号楼”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=6be9bd4809ff45debbacfc10c6956c4f",
+        "datetime": "2019-05-06 09:18:10"
+      },
+      {
+        "title": "“相贤府17号楼”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=7a37adbc55d34b7fb491a2e400134de2",
+        "datetime": "2019-05-07 10:18:02"
+      },
+      {
+        "title": "“相贤府17号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=c82e4c0efbef463586ccdb3fb01b12c8",
+        "datetime": "2019-05-06 09:21:30"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0506/190506092115741_11490251127109701.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0507/190507101755804_11580053290635068.pdf"
+}

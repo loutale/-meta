@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "新视界公寓1、2号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=430b9bc845d5473784be3305a2828f10",
+    "datetime": "2019-06-17 17:08:11"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=430b9bc845d5473784be3305a2828f10",
+    "items": [
+      {
+        "title": "“新视界公寓1、2号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=1339da348c5f4876a034da05823d3e97",
+        "datetime": "2019-06-17 17:13:34"
+      },
+      {
+        "title": "“新视界公寓1、2号楼”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=7dfe25cf4f534d84a008c617c0ded743",
+        "datetime": "2019-06-19 10:18:56"
+      },
+      {
+        "title": "“新视界公寓1、2号楼”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=e098eab602504484b687a5679ec75ac0",
+        "datetime": "2019-06-17 17:09:41"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0618/190618095010798_15207186819023320.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0619/190619101847579_15295303876699484.pdf"
+}

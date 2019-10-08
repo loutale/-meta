@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "骏澜湾8幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=64c09eb3682443639709d65c496727d5",
+    "datetime": "2018-12-06 15:16:21"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=64c09eb3682443639709d65c496727d5",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=96c2f67f1c96437aaace2921ae8dbf3f",
+        "datetime": "2018-12-06 15:16:46"
+      },
+      {
+        "title": "骏澜湾8幢 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=d4225de65ae64e0c89d29c7d0c7cff00",
+        "datetime": "2018-12-06 15:19:48"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1206/181206151934732_6806304494517036.pdf"
+}

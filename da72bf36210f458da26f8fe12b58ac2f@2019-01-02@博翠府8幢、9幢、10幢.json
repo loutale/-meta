@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "博翠府8幢、9幢、10幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=da72bf36210f458da26f8fe12b58ac2f",
+    "datetime": "2019-01-02 08:59:21"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=da72bf36210f458da26f8fe12b58ac2f",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=320d4ee3ca3e49128bfb82bb3caeec78",
+        "datetime": "2019-01-02 09:01:23"
+      },
+      {
+        "title": "博翠府8幢、9幢、10幢 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=bf591eb3262f4b26bf260509d75fca5a",
+        "datetime": "2019-01-02 09:03:03"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0102/190102090239154_775535552818818.pdf"
+}

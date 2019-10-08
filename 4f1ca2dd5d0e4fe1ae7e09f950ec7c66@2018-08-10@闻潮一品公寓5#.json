@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "闻潮一品公寓5#",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=4f1ca2dd5d0e4fe1ae7e09f950ec7c66",
+    "datetime": "2018-08-10 08:37:54"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=4f1ca2dd5d0e4fe1ae7e09f950ec7c66",
+    "items": [
+      {
+        "title": "“闻潮一品5#”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=30807c78c9bc46fe9a74e9785325c95e",
+        "datetime": "2018-08-11 09:24:53"
+      },
+      {
+        "title": "“闻潮一品5#”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=8702dc4dd6bc46bc9e32dfaa9c3410ef",
+        "datetime": "2018-08-10 08:49:22"
+      },
+      {
+        "title": "闻潮一品公寓5#购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=9a05b0ed28d8477492ccd987abba365d",
+        "datetime": "2018-08-10 08:53:58"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0810/180810085258055_3601565104662476.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0811/180811092259527_3689769709812435.pdf"
+}

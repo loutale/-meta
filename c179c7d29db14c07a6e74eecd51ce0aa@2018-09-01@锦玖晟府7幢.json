@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "锦玖晟府7幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=c179c7d29db14c07a6e74eecd51ce0aa",
+    "datetime": "2018-09-01 08:20:07"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=c179c7d29db14c07a6e74eecd51ce0aa",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=7d97aa2618574d589042867320d23c03",
+        "datetime": "2018-09-01 08:21:16"
+      },
+      {
+        "title": "锦玖晟府7幢购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=f56a10e4786c4b879cf43c1185d3ae94",
+        "datetime": "2018-09-01 08:23:41"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0901/180901082319180_5500560200371188.pdf"
+}

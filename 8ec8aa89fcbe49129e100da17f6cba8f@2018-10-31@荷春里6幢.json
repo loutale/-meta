@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "荷春里6幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=8ec8aa89fcbe49129e100da17f6cba8f",
+    "datetime": "2018-10-31 08:50:39"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=8ec8aa89fcbe49129e100da17f6cba8f",
+    "items": [
+      {
+        "title": "“荷春里6幢”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=619942b694104442ac38502d243efac7",
+        "datetime": "2018-10-31 08:50:59"
+      },
+      {
+        "title": "“荷春里6幢”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=bc0b378196f3467f98acbe1f0cc84c36",
+        "datetime": "2018-11-01 09:56:34"
+      },
+      {
+        "title": "“荷春里6幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=d0091589cfc44663bf44c85cfad8e0ba",
+        "datetime": "2018-10-31 08:51:21"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1031/181031092246396_3674496983414442.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/1101/181101095657263_3762946880136389.pdf"
+}

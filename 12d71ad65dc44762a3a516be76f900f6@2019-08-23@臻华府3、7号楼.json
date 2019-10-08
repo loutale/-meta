@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "臻华府3、7号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=12d71ad65dc44762a3a516be76f900f6",
+    "datetime": "2019-08-23 16:00:07"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=12d71ad65dc44762a3a516be76f900f6",
+    "items": [
+      {
+        "title": "“臻华府3、7号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=89aa4505897c4ffcb1ca20cdab235175",
+        "datetime": "2019-08-23 16:03:43"
+      },
+      {
+        "title": "“臻华府3、7号楼”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=9b1a25dafb9e4bc490cc585a1d832e98",
+        "datetime": "2019-08-24 16:50:12"
+      },
+      {
+        "title": "“臻华府3、7号楼”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=af2d9a3bb6454f22b75083490a8ed867",
+        "datetime": "2019-08-23 16:00:27"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0823/190823160328295_20931982829893931.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0824/190824165001904_21021177714821702.pdf"
+}

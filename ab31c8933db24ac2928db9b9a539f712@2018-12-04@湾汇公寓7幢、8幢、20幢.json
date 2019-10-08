@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "湾汇公寓7幢、8幢、20幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=ab31c8933db24ac2928db9b9a539f712",
+    "datetime": "2018-12-04 17:07:31"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=ab31c8933db24ac2928db9b9a539f712",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=bf9d1cff58124a00b9bf0aae061b86f3",
+        "datetime": "2018-12-04 17:07:50"
+      },
+      {
+        "title": "湾汇公寓7幢、8幢、20幢购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ce3a90cee39c4692a730adb70e853231",
+        "datetime": "2018-12-04 17:11:12"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1204/181204171052391_6640182119168599.pdf"
+}

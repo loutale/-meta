@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "君望花苑130号",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=7a5cde30624b4121a50d3135d94603d8",
+    "datetime": "2018-12-04 17:12:06"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=7a5cde30624b4121a50d3135d94603d8",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=b64f7d1ea9d84b26be72bb87ed34cf99",
+        "datetime": "2018-12-04 17:12:23"
+      },
+      {
+        "title": "君望花苑130号购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=e76a26a2e23442cfa9dcd8ea8a99a33f",
+        "datetime": "2018-12-04 17:13:59"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1204/181204171344278_6640354095184715.pdf"
+}

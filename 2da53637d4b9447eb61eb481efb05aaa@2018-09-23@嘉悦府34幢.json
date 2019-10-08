@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "嘉悦府34幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2da53637d4b9447eb61eb481efb05aaa",
+    "datetime": "2018-09-23 22:58:54"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2da53637d4b9447eb61eb481efb05aaa",
+    "items": [
+      {
+        "title": "“嘉悦府34幢”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=44ff1a035ee541a5a28048d65a97e5ed",
+        "datetime": "2018-09-23 23:01:35"
+      },
+      {
+        "title": "“嘉悦府34幢”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=793b68a518bb4a44806b5b6ddc8fe2e8",
+        "datetime": "2018-09-25 14:19:52"
+      },
+      {
+        "title": "“嘉悦府34幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=aa2091e112ff483daf102ffb5f8a1121",
+        "datetime": "2018-09-23 23:03:46"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0923/180923230326623_440539439354176.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0925/180925141937992_581915678255918.pdf"
+}

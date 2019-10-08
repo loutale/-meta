@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "中天珺府93幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=6a0dc59e77124eab9032ecc05a1473f7",
+    "datetime": "2019-04-03 09:23:41"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=6a0dc59e77124eab9032ecc05a1473f7",
+    "items": [
+      {
+        "title": "“中天珺府93幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=2b5d602b4da0407fae87c0fd6e1dccab",
+        "datetime": "2019-04-03 09:28:03"
+      },
+      {
+        "title": "“中天珺府93幢”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=8b1f1ead1dbc4478b1c8a3c764f78ef0",
+        "datetime": "2019-04-03 09:24:15"
+      },
+      {
+        "title": "“中天珺府93幢”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=9beeed1306cc49619ca2dc9376d6f235",
+        "datetime": "2019-04-04 10:18:19"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0403/190403092743319_8639438418719012.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0404/190404101814413_8728869875794176.pdf"
+}

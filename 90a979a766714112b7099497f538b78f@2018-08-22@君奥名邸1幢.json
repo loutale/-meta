@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "君奥名邸1幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=90a979a766714112b7099497f538b78f",
+    "datetime": "2018-08-22 08:40:31"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=90a979a766714112b7099497f538b78f",
+    "items": [
+      {
+        "title": "“君奥名邸1幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=798e212612504c71b5b99bab63425b20",
+        "datetime": "2018-08-22 08:44:50"
+      },
+      {
+        "title": "“君奥名邸1幢”销售公开摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a8a22bc8a2f44918a0d6f832442820ac",
+        "datetime": "2018-08-22 08:40:53"
+      },
+      {
+        "title": "“君奥名邸1幢”销售公开摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=f521f0b9811a40e587120c97af28ead0",
+        "datetime": "2018-08-23 09:21:16"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0822/180822084407060_4637814455134411.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0823/180823092040781_4726411783394289.pdf"
+}

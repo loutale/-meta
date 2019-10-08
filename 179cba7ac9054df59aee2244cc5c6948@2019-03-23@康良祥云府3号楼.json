@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "康良祥云府3号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=179cba7ac9054df59aee2244cc5c6948",
+    "datetime": "2019-03-23 06:53:36"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=179cba7ac9054df59aee2244cc5c6948",
+    "items": [
+      {
+        "title": "“康良祥云府3号楼”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=0aac70d645504e57a1352cd590ef28c7",
+        "datetime": "2019-03-23 06:54:00"
+      },
+      {
+        "title": "“康良祥云府3号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=0c2a8a6b0689438d90440f3701715967",
+        "datetime": "2019-03-23 06:55:59"
+      },
+      {
+        "title": "“康良祥云府3号楼”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=de530eb523ce403791b3331236d79b39",
+        "datetime": "2019-03-24 10:47:18"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0323/190323065547394_7679923405162675.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0324/190324104704191_7780200383307403.pdf"
+}

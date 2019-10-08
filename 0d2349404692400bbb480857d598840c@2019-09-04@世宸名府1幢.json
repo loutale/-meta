@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "世宸名府1幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=0d2349404692400bbb480857d598840c",
+    "datetime": "2019-09-04 08:26:28"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=0d2349404692400bbb480857d598840c",
+    "items": [
+      {
+        "title": "“世宸名府1幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=c6e67ecbd38c456ea2783a91b3a71553",
+        "datetime": "2019-09-04 08:31:04"
+      },
+      {
+        "title": "“世宸名府1幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=cfcdf392171940f29475a57f9865e70f",
+        "datetime": "2019-09-04 08:27:29"
+      },
+      {
+        "title": "“世宸名府1幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=eb886c88cab3456f8232536500fd194b",
+        "datetime": "2019-09-05 09:50:02"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0904/190904083052498_21941629362946159.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0905/190905094951873_22032769200663441.pdf"
+}

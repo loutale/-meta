@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "环秀府4#、9#、14#、19#、20#楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2d83d00c731349afbfe93224b7f13134",
+    "datetime": "2019-03-09 01:09:40"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2d83d00c731349afbfe93224b7f13134",
+    "items": [
+      {
+        "title": "环秀府4#、9#、14#、19#、20#楼公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=423ebd04101d4775aea608f8c230b59a",
+        "datetime": "2019-03-10 10:55:38"
+      },
+      {
+        "title": "环秀府4#、9#、14#、19#、20#楼购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=4e9bd1d23352436eb8c7063c08446acd",
+        "datetime": "2019-03-09 01:14:12"
+      },
+      {
+        "title": "环秀府4#、9#、14#、19#、20#楼公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=79263b03574c40eab16522c8b7667cee",
+        "datetime": "2019-03-09 01:10:21"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0309/190309011353899_6449807448958799.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0310/190310105527196_6571103268844971.pdf"
+}

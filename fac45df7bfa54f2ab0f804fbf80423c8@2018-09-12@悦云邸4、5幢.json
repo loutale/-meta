@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "悦云邸4、5幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=fac45df7bfa54f2ab0f804fbf80423c8",
+    "datetime": "2018-09-12 08:44:50"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=fac45df7bfa54f2ab0f804fbf80423c8",
+    "items": [
+      {
+        "title": "“悦云邸4、5幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=37236521395d460d82c0b53fc5820ca0",
+        "datetime": "2018-09-12 09:08:32"
+      },
+      {
+        "title": "“悦云邸4、5幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=9eca5730452b4271bd0b56b999a16529",
+        "datetime": "2018-09-12 09:07:35"
+      },
+      {
+        "title": "“悦云邸4、5幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=fce5d906e6e849938b40235371cf1500",
+        "datetime": "2018-09-13 09:49:29"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0912/180912090807717_6453636589922535.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0913/180913094949379_6542538107469803.pdf"
+}

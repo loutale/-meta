@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "宸宇府34号",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=5212fbcdf34341ec95d662e4a649da68",
+    "datetime": "2019-08-15 09:14:42"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=5212fbcdf34341ec95d662e4a649da68",
+    "items": [
+      {
+        "title": "“宸宇府34号”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=40d624293209425b96a2dbc929d9de47",
+        "datetime": "2019-08-16 09:55:11"
+      },
+      {
+        "title": "“宸宇府34号”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=63ed7558bb3e4818b3708fd87eefab33",
+        "datetime": "2019-08-15 09:21:32"
+      },
+      {
+        "title": "“宸宇府34号”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a1a88ca79ba048069fe08b8545a9f201",
+        "datetime": "2019-08-15 09:15:20"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0815/190815092119030_20216653611112840.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0816/190816095504992_20305080484979383.pdf"
+}

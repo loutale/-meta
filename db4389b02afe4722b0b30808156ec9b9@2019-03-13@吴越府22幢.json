@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "吴越府22幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=db4389b02afe4722b0b30808156ec9b9",
+    "datetime": "2019-03-13 13:41:26"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=db4389b02afe4722b0b30808156ec9b9",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=1ffeaa5b42934180bd8b89e9ef498244",
+        "datetime": "2019-03-13 13:41:55"
+      },
+      {
+        "title": "吴越府22幢 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=b813eb6f62584ca3bbf9270aa4f4390e",
+        "datetime": "2019-03-13 13:45:35"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0313/190313134511978_6840487740642696.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "华景湾7#、9#、12#、22#楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=42346dc521ef489e9f99aeffce728437",
+    "datetime": "2018-07-16 00:30:26"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=42346dc521ef489e9f99aeffce728437",
+    "items": [
+      {
+        "title": "\"华景湾7#、9#、12#、22#楼\"公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=44161dcff49a4155a8d0488b6e16b37c",
+        "datetime": "2018-07-16 00:31:22"
+      },
+      {
+        "title": "\"华景湾7#、9#、12#、22#楼\"公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=7bbba990da474b44ad00dfca71ab090b",
+        "datetime": "2018-07-17 10:24:45"
+      },
+      {
+        "title": "“华景湾7#、9#、12#、22#楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=cee134b60f254892ab79cf7023a80e51",
+        "datetime": "2018-07-16 00:32:42"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0716/180716003451881_1411652535816252.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0717/180717102350952_1533410193656581.pdf"
+}

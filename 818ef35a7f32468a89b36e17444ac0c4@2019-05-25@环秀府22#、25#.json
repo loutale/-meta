@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "环秀府22#、25#",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=818ef35a7f32468a89b36e17444ac0c4",
+    "datetime": "2019-05-25 08:00:41"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=818ef35a7f32468a89b36e17444ac0c4",
+    "items": [
+      {
+        "title": "“环秀府22#、25#”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=c3fe54124d3f4c43880fe12b4f94e8d0",
+        "datetime": "2019-05-26 10:23:27"
+      },
+      {
+        "title": "“环秀府22#、25#”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=d3914307f9e149238522fcddfe6087ef",
+        "datetime": "2019-05-25 08:05:47"
+      },
+      {
+        "title": "“环秀府22#、25#”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=fd25a005e6fa42c4b8e828f6f78bebac",
+        "datetime": "2019-05-25 08:01:41"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0525/190525080524270_13127299160900023.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0526/190526102322473_13221978122919499.pdf"
+}

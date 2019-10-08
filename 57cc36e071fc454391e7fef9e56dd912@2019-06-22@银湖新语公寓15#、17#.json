@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "银湖新语公寓15#、17#",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=57cc36e071fc454391e7fef9e56dd912",
+    "datetime": "2019-06-22 16:00:17"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=57cc36e071fc454391e7fef9e56dd912",
+    "items": [
+      {
+        "title": "“银湖新语公寓15#、17#”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=10999c3b9a3340ca8120899b07849245",
+        "datetime": "2019-06-22 16:02:24"
+      },
+      {
+        "title": "“银湖新语公寓15#、17#”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=2db9db05e3234784965f023c746c27e9",
+        "datetime": "2019-06-23 16:31:20"
+      },
+      {
+        "title": "“银湖新语公寓15#、17#”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ede540be76164fa7afb2a0a7f28ff55b",
+        "datetime": "2019-06-22 16:04:41"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0622/190622161329202_15575784950531545.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0623/190623163114593_15663250504213446.pdf"
+}

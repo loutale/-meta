@@ -1,0 +1,34 @@
+{
+  "item": {
+    "title": "春江香樟苑11号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=f6d2c1e537cc4bd89bf0adc3e21b1e15",
+    "datetime": "2018-06-27 10:07:16"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=f6d2c1e537cc4bd89bf0adc3e21b1e15",
+    "items": [
+      {
+        "title": "“春江香樟苑11号楼”销售公开摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=21edd7fa58714638babeb653fb5c65dc",
+        "datetime": "2018-06-27 10:08:06"
+      },
+      {
+        "title": "“春江香樟苑11号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=233eba86063c47b99fc9bbd8d957d9b3",
+        "datetime": "2018-06-27 10:15:19"
+      },
+      {
+        "title": "“春江香樟苑11号楼”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=3a1d0317b57c47fa84dcb5519d0fe30d",
+        "datetime": "2018-06-28 11:02:48"
+      },
+      {
+        "title": "情况说明",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=41cd78e15afd44cebe4ef8e4db15b8b9",
+        "datetime": "2018-06-28 12:24:19"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0627/180627113847921_632382720952360.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0628/180628112638815_718061923246443.pdf"
+}

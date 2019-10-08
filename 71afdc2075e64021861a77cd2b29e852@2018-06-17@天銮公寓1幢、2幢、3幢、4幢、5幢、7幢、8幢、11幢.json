@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "天銮公寓1幢、2幢、3幢、4幢、5幢、7幢、8幢、11幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=71afdc2075e64021861a77cd2b29e852",
+    "datetime": "2018-06-17 22:14:08"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=71afdc2075e64021861a77cd2b29e852",
+    "items": [
+      {
+        "title": "公  告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=20860f25a2cb469fbaedab26a2a97767",
+        "datetime": "2018-06-17 22:14:44"
+      },
+      {
+        "title": "天銮公寓1幢、2幢、3幢、4幢、5幢、7幢、8幢、11幢购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=2493d5cd7622407db8ed079ee4baca22",
+        "datetime": "2018-06-17 22:16:13"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0617/180617221804965_195100732834788.pdf"
+}

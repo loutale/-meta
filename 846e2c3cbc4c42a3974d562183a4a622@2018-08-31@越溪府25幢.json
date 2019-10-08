@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "越溪府25幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=846e2c3cbc4c42a3974d562183a4a622",
+    "datetime": "2018-08-31 09:03:13"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=846e2c3cbc4c42a3974d562183a4a622",
+    "items": [
+      {
+        "title": "“越溪府25幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=08093b5a47b649e7ad04549532142889",
+        "datetime": "2018-08-31 09:03:54"
+      },
+      {
+        "title": "“越溪府25幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=b411bb18cb634fa38e017168059c5940",
+        "datetime": "2018-08-31 09:07:06"
+      },
+      {
+        "title": "“越溪府25幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=d58c34a3350b4877a14c58457e4df102",
+        "datetime": "2018-09-01 09:48:25"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0831/180831090625797_5416743765384825.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0901/180901094727682_5505609013415552.pdf"
+}

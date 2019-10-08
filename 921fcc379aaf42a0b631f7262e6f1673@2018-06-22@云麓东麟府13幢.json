@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "云麓东麟府13幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=921fcc379aaf42a0b631f7262e6f1673",
+    "datetime": "2018-06-22 23:09:39"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=921fcc379aaf42a0b631f7262e6f1673",
+    "items": [
+      {
+        "title": "“云麓东麟府13幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=07aaf64877304b7693b96e8917108588",
+        "datetime": "2018-06-22 23:13:33"
+      },
+      {
+        "title": "“云麓东麟府13幢”销售公开摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=307ea25cb7e547f8a602b2221df77a74",
+        "datetime": "2018-06-24 10:22:34"
+      },
+      {
+        "title": "“云麓东麟府13幢”销售公开摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a2193355ca034c328540b14fe17bcc69",
+        "datetime": "2018-06-22 23:10:21"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0622/180622231521983_242163818356826.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0624/180624102423399_368709348095599.pdf"
+}

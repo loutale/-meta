@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "云谷公寓",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=ecfb9a1d8a0a4570a3d9d91fa6694d6d",
+    "datetime": "2018-06-23 09:12:25"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=ecfb9a1d8a0a4570a3d9d91fa6694d6d",
+    "items": [
+      {
+        "title": "“云谷公寓”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=19c8b3d95b124da2995878279d0d9969",
+        "datetime": "2018-06-23 09:30:17"
+      },
+      {
+        "title": "“云谷公寓”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=559f47a3da5c4959be76a0d68f8d901a",
+        "datetime": "2018-06-24 11:42:31"
+      },
+      {
+        "title": "“云谷公寓”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ed4964a6214449deb77f5e830c87a595",
+        "datetime": "2018-06-23 09:30:45"
+      }
+    ]
+  },
+  "summary": "https://www.hz-notary.com/ueditor/jsp/upload/file/20180623/1529717335140075400.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0624/180624114408904_373495225363908.pdf"
+}

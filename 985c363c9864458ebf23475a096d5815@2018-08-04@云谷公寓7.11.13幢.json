@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "云谷公寓7.11.13幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=985c363c9864458ebf23475a096d5815",
+    "datetime": "2018-08-04 09:42:24"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=985c363c9864458ebf23475a096d5815",
+    "items": [
+      {
+        "title": "“云谷公寓7.11.13幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=13a0cb9a22f44cc99d0b1f20dac660ad",
+        "datetime": "2018-08-04 09:51:51"
+      },
+      {
+        "title": "“云谷公寓7.11.13幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=30125c4768c94e128c5d594cedd0d32a",
+        "datetime": "2018-08-04 09:46:40"
+      },
+      {
+        "title": "“云谷公寓7.11.13幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=fc270b67ce4c4a6e8efd999d83ad8b58",
+        "datetime": "2018-08-05 11:06:49"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0804/180804095058918_3086626939015262.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0805/180805110610433_3177542639025001.pdf"
+}

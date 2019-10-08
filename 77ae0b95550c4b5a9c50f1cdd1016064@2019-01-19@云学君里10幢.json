@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "云学君里10幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=77ae0b95550c4b5a9c50f1cdd1016064",
+    "datetime": "2019-01-19 09:06:08"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=77ae0b95550c4b5a9c50f1cdd1016064",
+    "items": [
+      {
+        "title": "“云学君里10幢”销售公开摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=9a218b12b5144075ab30f7483b7d57f6",
+        "datetime": "2019-01-19 09:06:49"
+      },
+      {
+        "title": "“云学君里10幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a3d33683d61a4fdd909b8f3e7b7a50cd",
+        "datetime": "2019-01-19 09:08:20"
+      },
+      {
+        "title": "“云学君里10幢”销售公开摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a88d8bfc0a5e4b13acd8731d251a46c5",
+        "datetime": "2019-01-20 10:03:40"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0119/190119090804714_2244661474801868.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0120/190120100330605_2334382699490236.pdf"
+}

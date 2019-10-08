@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "亚澜湾1#、13#楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=a434ceabc52f4dd8a8f292d5f3f3a3be",
+    "datetime": "2018-07-12 09:47:45"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=a434ceabc52f4dd8a8f292d5f3f3a3be",
+    "items": [
+      {
+        "title": "“亚澜湾1#、13#”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=6a0ee8ec4acc4806912e4b1f32105262",
+        "datetime": "2018-07-13 11:28:22"
+      },
+      {
+        "title": "“亚澜湾1#、13#”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=fa995d7d3584451185550ffacd1d6c77",
+        "datetime": "2018-07-12 09:49:51"
+      },
+      {
+        "title": "“亚澜湾1#、13#”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ffde687b811a4b338199401a03a9d1c1",
+        "datetime": "2018-07-12 09:57:08"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0712/180712100802754_1100298704577347.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0713/180713112849579_1191538414304193.pdf"
+}

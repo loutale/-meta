@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "新越锦粼府2#楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=9c1babdb3f454a40a087c12be3756195",
+    "datetime": "2019-03-15 18:00:08"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=9c1babdb3f454a40a087c12be3756195",
+    "items": [
+      {
+        "title": "新越锦粼府2#楼购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=440f1fb1ff2949ce8750e33b529f5ef1",
+        "datetime": "2019-03-15 18:02:51"
+      },
+      {
+        "title": "新越锦粼府2#楼公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=8b827013114d4a67ba99981d2add2433",
+        "datetime": "2019-03-15 18:00:45"
+      },
+      {
+        "title": "新越锦粼府2#楼公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=e14e5da7bbe44e7da95d26c74b7d966d",
+        "datetime": "2019-03-16 18:47:27"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0315/190315180235165_7028730899386359.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0316/190316184720634_7117817528902256.pdf"
+}

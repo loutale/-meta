@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "天空之城2号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=bd0bfb512de04cfd996ed3c59686532a",
+    "datetime": "2018-12-08 22:30:08"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=bd0bfb512de04cfd996ed3c59686532a",
+    "items": [
+      {
+        "title": "“天空之城2号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=2ddbf3e0716f434993d1d901aa51213a",
+        "datetime": "2018-12-08 22:33:56"
+      },
+      {
+        "title": "“天空之城2号楼”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=7f2a9682180a4121bbe1345351018ffe",
+        "datetime": "2018-12-10 09:20:18"
+      },
+      {
+        "title": "“天空之城2号楼”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=f69bb293db564de5acbad7d39dacb68b",
+        "datetime": "2018-12-08 22:30:38"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1208/181208223334345_7005144275522752.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/1210/181210112806799_7138016539549592.pdf"
+}

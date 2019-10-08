@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "皓玉府1幢、2幢、3幢、4幢、5幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=23a168b8f13048e1866540bf703ae489",
+    "datetime": "2019-08-19 15:49:48"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=23a168b8f13048e1866540bf703ae489",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=0397c52675d94920bc9b1a357b831dea",
+        "datetime": "2019-08-19 15:50:13"
+      },
+      {
+        "title": "皓玉府1幢、2幢、3幢、4幢、5幢 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ded656d9f9f54810b5e17e4cad509930",
+        "datetime": "2019-08-19 15:52:14"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0819/190819155155461_20585690732445988.pdf"
+}

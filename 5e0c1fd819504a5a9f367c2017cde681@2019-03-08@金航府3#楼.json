@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "金航府3#楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=5e0c1fd819504a5a9f367c2017cde681",
+    "datetime": "2019-03-08 22:22:23"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=5e0c1fd819504a5a9f367c2017cde681",
+    "items": [
+      {
+        "title": "“金航府3#楼”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=0ef34da10789485e94128264bfc5f69d",
+        "datetime": "2019-03-10 09:46:30"
+      },
+      {
+        "title": "“金航府3#楼”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=5975c1551fd0477ea8644fee14a4600f",
+        "datetime": "2019-03-08 22:22:52"
+      },
+      {
+        "title": "“金航府3#楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=92a5b3fe4d1842a1a4a92946ce86c158",
+        "datetime": "2019-03-08 22:25:32"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0308/190308222516415_6439692049272426.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0310/190310094621259_6566957305555403.pdf"
+}

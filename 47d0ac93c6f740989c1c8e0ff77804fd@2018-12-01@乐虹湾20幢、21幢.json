@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "乐虹湾20幢、21幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=47d0ac93c6f740989c1c8e0ff77804fd",
+    "datetime": "2018-12-01 09:27:28"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=47d0ac93c6f740989c1c8e0ff77804fd",
+    "items": [
+      {
+        "title": "“乐虹湾20幢、21幢”销售公开摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=26de631ae40a4722a9c43f59db843621",
+        "datetime": "2018-12-01 09:27:50"
+      },
+      {
+        "title": "“乐虹湾20幢、21幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=6e87230af03b43dcadb0288653e90918",
+        "datetime": "2018-12-01 10:18:26"
+      },
+      {
+        "title": "“乐虹湾20幢、21幢”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=86558d82b4be48fc9c0a6241194e2712",
+        "datetime": "2018-12-02 10:52:27"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1201/181201101810010_6356219801853085.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/1202/181202105217450_6444667126715082.pdf"
+}

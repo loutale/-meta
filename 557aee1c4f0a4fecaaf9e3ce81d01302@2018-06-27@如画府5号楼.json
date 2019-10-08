@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "如画府5号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=557aee1c4f0a4fecaaf9e3ce81d01302",
+    "datetime": "2018-06-27 11:26:30"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=557aee1c4f0a4fecaaf9e3ce81d01302",
+    "items": [
+      {
+        "title": "“如画府5号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=046a46d5af404fc3b8a9f716a31a8532",
+        "datetime": "2018-06-27 11:30:47"
+      },
+      {
+        "title": "“如画府5号楼”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=10dbc48b459f4855b91b7106d5f3e9e4",
+        "datetime": "2018-06-28 11:58:08"
+      },
+      {
+        "title": "“如画府5号楼”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a9f1385f3d18433289eb2ff2d8affc9d",
+        "datetime": "2018-06-27 11:27:33"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0627/180627113425489_632120605970976.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0628/180628115948114_720051321376312.pdf"
+}

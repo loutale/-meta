@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "传宸府6幢、7幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=57ac846a84994073b1c806625db4becd",
+    "datetime": "2019-09-27 14:08:04"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=57ac846a84994073b1c806625db4becd",
+    "items": [
+      {
+        "title": "“传宸府6幢、7幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=0d8bb4315ea44b0592b7152791fea865",
+        "datetime": "2019-09-27 14:08:36"
+      },
+      {
+        "title": "“传宸府6幢、7幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=4db3c8c78550444487cdb249c9a9d34c",
+        "datetime": "2019-09-27 14:14:20"
+      },
+      {
+        "title": "“传宸府6幢、7幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ae659dc3073d4803b5230e5b99082d5c",
+        "datetime": "2019-09-28 14:48:33"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0927/190927141355123_23949418960738771.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0928/190928144819967_24037884051273542.pdf"
+}

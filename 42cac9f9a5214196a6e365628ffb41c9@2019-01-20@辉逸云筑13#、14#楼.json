@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "辉逸云筑13#、14#楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=42cac9f9a5214196a6e365628ffb41c9",
+    "datetime": "2019-01-20 08:01:08"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=42cac9f9a5214196a6e365628ffb41c9",
+    "items": [
+      {
+        "title": "“辉逸云筑13#、14#楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=2ff2df9ea17946febb2fa236a05c76a4",
+        "datetime": "2019-01-20 08:04:40"
+      },
+      {
+        "title": "“辉逸云筑13#、14#楼”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=98cdd290a284414194a5476c0d2ba615",
+        "datetime": "2019-01-20 08:03:14"
+      },
+      {
+        "title": "“辉逸云筑13#、14#楼”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=d206f9988cde4afa85efce28945a0a8a",
+        "datetime": "2019-01-21 11:24:12"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0120/190120080428042_2327244976288275.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0121/190121112341620_2425598186013868.pdf"
+}

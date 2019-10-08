@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "新视界公寓5号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=3104be4b574649ea9ea0ac701da7d2ec",
+    "datetime": "2019-05-31 14:47:32"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=3104be4b574649ea9ea0ac701da7d2ec",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=25bd1264436d4881b50916447615540d",
+        "datetime": "2019-05-31 14:57:00"
+      },
+      {
+        "title": "新视界公寓5号楼 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=70345e1360c147b69394c141d1feb9a6",
+        "datetime": "2019-05-31 15:00:23"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0531/190531150011715_13670586828218251.pdf"
+}

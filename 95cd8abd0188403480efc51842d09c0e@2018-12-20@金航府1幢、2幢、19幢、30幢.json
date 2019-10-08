@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "金航府1幢、2幢、19幢、30幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=95cd8abd0188403480efc51842d09c0e",
+    "datetime": "2018-12-20 19:59:42"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=95cd8abd0188403480efc51842d09c0e",
+    "items": [
+      {
+        "title": "“金航府1幢、2幢、19幢、30幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=29c8ea8692394e6abc9d8f235576f47c",
+        "datetime": "2018-12-20 20:03:36"
+      },
+      {
+        "title": "“金航府1幢、2幢、19幢、30幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=5625a557506945aea18578df8bde40a0",
+        "datetime": "2018-12-20 20:00:07"
+      },
+      {
+        "title": "“金航府1幢、2幢、19幢、30幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=fcc78a03a2d04db8b13ed9c7fdaca18a",
+        "datetime": "2018-12-21 20:18:41"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1220/181220200319903_8032929629439900.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/1221/181221201836300_8120246215859313.pdf"
+}

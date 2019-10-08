@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "滨盛金茂府",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=fc0dda5346e04c5d96cf3f6c4f351a23",
+    "datetime": "2018-06-16 23:13:02"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=fc0dda5346e04c5d96cf3f6c4f351a23",
+    "items": [
+      {
+        "title": "“滨盛金茂府”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=003b34e1dc5046f9970a9e2c88974f39",
+        "datetime": "2018-06-16 23:13:24"
+      },
+      {
+        "title": "“滨盛金茂府”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=9b3752906ad54b8086ef37bc23c74f2b",
+        "datetime": "2018-06-18 09:59:36"
+      },
+      {
+        "title": "“滨盛金茂府”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a768b83fc15445169e230ed8879447e8",
+        "datetime": "2018-06-16 23:16:31"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0616/180616231737805_112319781408837.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0618/180618095849246_237284876252445.pdf"
+}

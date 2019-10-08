@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "汇雅轩4、6幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=7fa01fde8c26471da628998bffe70821",
+    "datetime": "2018-06-15 09:28:16"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=7fa01fde8c26471da628998bffe70821",
+    "items": [
+      {
+        "title": "“汇雅轩4、6幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ae3184c14087447d932ddbcfd1eccbec",
+        "datetime": "2018-06-15 09:28:43"
+      },
+      {
+        "title": "“汇雅轩4、6幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=bca8e8bdcf3d48ab9ae73726a19210d8",
+        "datetime": "2018-06-16 10:27:31"
+      },
+      {
+        "title": "“汇雅轩4、6幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=dba772a596a04ff39fabcea328e5179c",
+        "datetime": "2018-06-15 10:00:19"
+      }
+    ]
+  },
+  "summary": "http://115.236.11.35:10006/pdf/2018/0615/180615101717507_92714286975866.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0616/180616102753557_66132545262895.pdf"
+}

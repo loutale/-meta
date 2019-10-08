@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "秀隐翠园3号楼、6号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=332e2a3d57524d32a0239dc4846655c9",
+    "datetime": "2019-06-08 11:04:27"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=332e2a3d57524d32a0239dc4846655c9",
+    "items": [
+      {
+        "title": "“秀隐翠园3号楼、6号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=70ee93c86e3e40b9b748d2a4e493816f",
+        "datetime": "2019-06-08 11:14:40"
+      },
+      {
+        "title": "“秀隐翠园3号楼、6号楼”销售公开摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=adaab9b33e8a4bf9ab9448133c316964",
+        "datetime": "2019-06-09 11:49:33"
+      },
+      {
+        "title": "“秀隐翠园3号楼、6号楼”销售公开摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=b4d6ba0eb555450dafd7d8def8d60f55",
+        "datetime": "2019-06-08 11:05:02"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0608/190608111412026_14348227656572472.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0609/190609114927697_14436743330024279.pdf"
+}

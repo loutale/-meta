@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "国宸滨府1号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=96ffa15edcda454c83fab14dc591a52f",
+    "datetime": "2019-06-20 16:04:52"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=96ffa15edcda454c83fab14dc591a52f",
+    "items": [
+      {
+        "title": "“国宸滨府1号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=2cd6b641d60b4b4a9d6983dc383ae7c8",
+        "datetime": "2019-06-20 16:11:28"
+      },
+      {
+        "title": "“国宸滨府1号楼”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=3188cc48727b4ac5a88f52d89c739452",
+        "datetime": "2019-06-21 16:40:00"
+      },
+      {
+        "title": "“国宸滨府1号楼”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=7d95f2b9198746cd897c78e32eaef04d",
+        "datetime": "2019-06-20 16:05:21"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0620/190620161117280_15402852354946620.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0621/190621163952514_15490967986501218.pdf"
+}

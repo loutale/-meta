@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "朗诗熙华府",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=57353590f4864438b46141117afcff9c",
+    "datetime": "2018-05-08 08:52:11"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=57353590f4864438b46141117afcff9c",
+    "items": [
+      {
+        "title": "“杭州朗诗熙华府（熙晖府）5/6/7/8栋”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=2733bf4cbb09401ba52fa447e5ff816e",
+        "datetime": "2018-05-08 08:56:25"
+      },
+      {
+        "title": "“杭州朗诗熙华府（熙晖府）5/6/7/8栋”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=e3aa9e90cefc461fbdd88d6c5fd2a3c3",
+        "datetime": "2018-05-09 09:59:11"
+      },
+      {
+        "title": "“杭州朗诗熙华府（熙晖府）5/6/7/8栋”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=f8bd35dbb4324afd926a2a51b9e30c1f",
+        "datetime": "2018-05-08 08:52:40"
+      }
+    ]
+  },
+  "summary": "https://www.hz-notary.com/ueditor/jsp/upload/file/20180508/1525740909022072275.pdf",
+  "result": "https://www.hz-notary.com/ueditor/jsp/upload/file/20180509/1525831141743004988.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "翡翠之星公寓1幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=1c111269bc6b4b3f8d911526a9cf005d",
+    "datetime": "2019-01-20 07:57:49"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=1c111269bc6b4b3f8d911526a9cf005d",
+    "items": [
+      {
+        "title": "“翡翠之星公寓1幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=3a13e4a1c141486bafb813116a62d8c0",
+        "datetime": "2019-01-20 08:00:40"
+      },
+      {
+        "title": "“翡翠之星公寓1幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=4ac25f0ab9cf40c79ba3442c45fa489c",
+        "datetime": "2019-01-20 07:58:14"
+      },
+      {
+        "title": "“翡翠之星公寓1幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=c26123702c8e415cb1f4fa3b93cd2e55",
+        "datetime": "2019-01-21 09:49:23"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0120/190120080012995_2326989792238819.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0121/190121094916724_2419933262703247.pdf"
+}

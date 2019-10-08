@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "嘉悦府",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=1abeaceb7cfd4be3be4aa0206d3544e8",
+    "datetime": "2018-08-18 09:04:49"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=1abeaceb7cfd4be3be4aa0206d3544e8",
+    "items": [
+      {
+        "title": "“嘉悦府”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=2e135f878bfa494c9cbbcfe279bab2d3",
+        "datetime": "2018-08-18 09:09:37"
+      },
+      {
+        "title": "“嘉悦府”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=96f47ae8e3634922a292cc5accf86e42",
+        "datetime": "2018-08-18 09:06:52"
+      },
+      {
+        "title": "“嘉悦府”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=f9a8ad35d1fe48d9891b709e4197d9e8",
+        "datetime": "2018-08-19 11:25:53"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0818/180818090900400_4293691044266480.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0819/180819112528793_4388282897763078.pdf"
+}

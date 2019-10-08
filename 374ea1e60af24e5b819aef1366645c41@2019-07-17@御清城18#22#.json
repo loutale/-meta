@@ -1,0 +1,34 @@
+{
+  "item": {
+    "title": "御清城18#22#",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=374ea1e60af24e5b819aef1366645c41",
+    "datetime": "2019-07-17 08:52:19"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=374ea1e60af24e5b819aef1366645c41",
+    "items": [
+      {
+        "title": "“御清城18#22#”补充公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=14cf4131278942e086bc5f74af74b31e",
+        "datetime": "2019-07-17 21:45:07"
+      },
+      {
+        "title": "“御清城18#22#”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=30fe7bdbb3e44edeae1528fd80e02bff",
+        "datetime": "2019-07-17 08:52:45"
+      },
+      {
+        "title": "“御清城18#22#”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=5c57319c74e848fcb5d2276b6c0786fe",
+        "datetime": "2019-07-17 08:53:04"
+      },
+      {
+        "title": "“御清城18#22#”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=7951730d54b74be498c8d317f8b67c94",
+        "datetime": "2019-07-18 10:24:13"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0717/190717091210053_17710506059805238.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0718/190718102406886_17801221112167509.pdf"
+}

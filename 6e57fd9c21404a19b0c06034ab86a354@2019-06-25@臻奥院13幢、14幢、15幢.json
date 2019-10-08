@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "臻奥院13幢、14幢、15幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=6e57fd9c21404a19b0c06034ab86a354",
+    "datetime": "2019-06-25 15:00:59"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=6e57fd9c21404a19b0c06034ab86a354",
+    "items": [
+      {
+        "title": "“臻奥院13幢、14幢、15幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=071288db31c546938736034290ed67d3",
+        "datetime": "2019-06-25 15:01:28"
+      },
+      {
+        "title": "“臻奥院13幢、14幢、15幢”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=442d6212b0bb412580e874ce82c62d34",
+        "datetime": "2019-06-26 15:35:02"
+      },
+      {
+        "title": "“臻奥院13幢、14幢、15幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=75e0be2f28cf455cb5cd0c3e1856c1a7",
+        "datetime": "2019-06-25 15:05:10"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0625/190625150452139_15830868178950998.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0626/190626153447866_15919064454783163.pdf"
+}

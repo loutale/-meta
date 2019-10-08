@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "麓宸府1、2、4、7号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=20605bc632ce434fbba28bb328711693",
+    "datetime": "2018-07-27 23:58:12"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=20605bc632ce434fbba28bb328711693",
+    "items": [
+      {
+        "title": "“麓宸府1、2、4、7号楼”销售公开摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=1834c0c5c6224b2d8a487262f0a99169",
+        "datetime": "2018-07-27 23:58:51"
+      },
+      {
+        "title": "“麓宸府1、2、4、7号楼”销售公开摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=51840e4f5eee4fdca2c71ad72833cea4",
+        "datetime": "2018-07-29 09:19:59"
+      },
+      {
+        "title": "“麓宸府1、2、4、7号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=bfdbab7970d740f8846a70266e6673af",
+        "datetime": "2018-07-28 00:01:09"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0728/180728000052536_2446399104110057.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0729/180729091945935_2566336773417346.pdf"
+}

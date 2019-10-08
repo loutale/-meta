@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "悦优公寓",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=d525a4360a1143478f231408d5a87214",
+    "datetime": "2018-05-12 10:42:17"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=d525a4360a1143478f231408d5a87214",
+    "items": [
+      {
+        "title": "“悦优公寓6#楼”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=0639689e584045e9afbb42daa9ae64df",
+        "datetime": "2018-05-12 10:43:45"
+      },
+      {
+        "title": "“悦优公寓6#楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=caa1c01c405046288af3f006a054b3b9",
+        "datetime": "2018-05-12 10:45:01"
+      },
+      {
+        "title": "“悦优公寓6#楼”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=d01d7c6daaed4c4bb0e9e38421236ae8",
+        "datetime": "2018-05-13 14:25:38"
+      }
+    ]
+  },
+  "summary": "https://www.hz-notary.com/ueditor/jsp/upload/file/20180512/1526093528179048767.pdf",
+  "result": "https://www.hz-notary.com/ueditor/jsp/upload/file/20180513/1526192730014011248.pdf"
+}

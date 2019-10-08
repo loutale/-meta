@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "天阅云合源公寓3幢、6幢、7幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2a6c6b978df34b16ab738e1f3e51e0c0",
+    "datetime": "2019-09-26 18:26:03"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2a6c6b978df34b16ab738e1f3e51e0c0",
+    "items": [
+      {
+        "title": "“天阅云合源公寓3幢、6幢、7幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=08092322f8f34207a2c732a71098397b",
+        "datetime": "2019-09-26 18:30:40"
+      },
+      {
+        "title": "“天阅云合源公寓3幢、6幢、7幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=0a604499ce9b45549422ae4e1cfde136",
+        "datetime": "2019-09-26 18:26:52"
+      },
+      {
+        "title": "“天阅云合源公寓3幢、6幢、7幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=996d8e8e4a454da694ed4c009eb533c8",
+        "datetime": "2019-09-27 18:49:39"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0926/190926183322107_23878585267148569.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0927/190927184925045_23965948253416334.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "璟隽名邸1幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=49b2cd3b2ee549ecbab4028e173ae048",
+    "datetime": "2019-04-03 18:29:39"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=49b2cd3b2ee549ecbab4028e173ae048",
+    "items": [
+      {
+        "title": "“璟隽名邸1幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=2ac1049947b74720ba377d02dafebf24",
+        "datetime": "2019-04-03 18:30:17"
+      },
+      {
+        "title": "“璟隽名邸1幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=5e1dd065b4554cb0aca8c0d37b46072b",
+        "datetime": "2019-04-04 18:46:03"
+      },
+      {
+        "title": "“璟隽名邸1幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=70db89d6c58f4deba7a33b2075badc7b",
+        "datetime": "2019-04-03 18:32:29"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0403/190403183217928_8672113303142746.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0404/190404184546585_8759321216148039.pdf"
+}

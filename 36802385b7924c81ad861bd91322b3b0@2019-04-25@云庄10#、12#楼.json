@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "云庄10#、12#楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=36802385b7924c81ad861bd91322b3b0",
+    "datetime": "2019-04-25 09:03:50"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=36802385b7924c81ad861bd91322b3b0",
+    "items": [
+      {
+        "title": "云庄10#、12#楼 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=e7ed2d5becc842e89e51e4785a30a101",
+        "datetime": "2019-04-25 09:06:07"
+      },
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=f59e9e81ff214954bece28b993c0c6da",
+        "datetime": "2019-04-25 09:04:18"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0425/190425090554476_10538930292299392.pdf"
+}

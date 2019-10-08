@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "云庄 1幢、2幢、5幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=a92f94c3f86145d891d63cd1cbd667b4",
+    "datetime": "2018-10-26 08:27:22"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=a92f94c3f86145d891d63cd1cbd667b4",
+    "items": [
+      {
+        "title": "“云庄 1幢、2幢、5幢”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=36af51d62cb14a07996382cd3ebf788f",
+        "datetime": "2018-10-27 11:32:20"
+      },
+      {
+        "title": "云庄 1幢、2幢、5幢 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a62a5f3d7b43404181f31b24aced2ac0",
+        "datetime": "2018-10-26 08:32:37"
+      },
+      {
+        "title": "“云庄 1幢、2幢、5幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=d40b784382ba4121991eb091ef96d644",
+        "datetime": "2018-10-26 08:28:23"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1026/181026083218990_3239468909329856.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/1027/181027113205658_3336655334156439.pdf"
+}

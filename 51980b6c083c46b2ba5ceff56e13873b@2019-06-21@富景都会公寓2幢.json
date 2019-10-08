@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "富景都会公寓2幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=51980b6c083c46b2ba5ceff56e13873b",
+    "datetime": "2019-06-21 10:54:35"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=51980b6c083c46b2ba5ceff56e13873b",
+    "items": [
+      {
+        "title": "“富景都会公寓2幢”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=03c63d858cb745ea8449b901fc20b955",
+        "datetime": "2019-06-21 10:54:52"
+      },
+      {
+        "title": "“富景都会公寓2幢”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=72fcaec4282544909134c22a0f8cce5a",
+        "datetime": "2019-06-22 11:24:30"
+      },
+      {
+        "title": "“富景都会公寓2幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=b1197082cdf84946b9b849bac7f857b7",
+        "datetime": "2019-06-21 10:58:32"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0621/190621105814546_15470469555827957.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0622/190622112424546_15558440262384099.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "盛茂府7幢、9幢、11幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=631b79498c954bec892154e7b7c0239a",
+    "datetime": "2018-11-27 08:28:47"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=631b79498c954bec892154e7b7c0239a",
+    "items": [
+      {
+        "title": "“盛茂府7幢、9幢、11幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=00883cc0fdee4ba193c18ad70002a7e6",
+        "datetime": "2018-11-27 08:35:48"
+      },
+      {
+        "title": "“盛茂府7幢、9幢、11幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=4f51188c822944c199a3056773dc57c7",
+        "datetime": "2018-11-27 08:32:51"
+      },
+      {
+        "title": "“盛茂府7幢、9幢、11幢”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=57852ddec34d4ffd94a833d37c3e2448",
+        "datetime": "2018-11-28 09:18:46"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1127/181127083516157_6004450598837251.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/1128/181128091831072_6093448490343372.pdf"
+}

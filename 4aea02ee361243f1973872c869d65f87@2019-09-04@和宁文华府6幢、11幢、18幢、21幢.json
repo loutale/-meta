@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "和宁文华府6幢、11幢、18幢、21幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=4aea02ee361243f1973872c869d65f87",
+    "datetime": "2019-09-04 14:02:19"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=4aea02ee361243f1973872c869d65f87",
+    "items": [
+      {
+        "title": "“和宁文华府6幢、11幢、18幢、21幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=33075c210b0c47048d0181b36924146e",
+        "datetime": "2019-09-04 14:03:08"
+      },
+      {
+        "title": "“和宁文华府6幢、11幢、18幢、21幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=64b33e05dfca4d4e92ff1e26c9ed8a61",
+        "datetime": "2019-09-05 16:46:07"
+      },
+      {
+        "title": "“和宁文华府6幢、11幢、18幢、21幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=8d0630f16a9a4457b16670bc65543e4a",
+        "datetime": "2019-09-04 14:07:25"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0904/190904142259529_21962756932315897.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0905/190905164559795_22057737347254050.pdf"
+}

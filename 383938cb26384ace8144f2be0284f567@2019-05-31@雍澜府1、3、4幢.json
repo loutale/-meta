@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "雍澜府1、3、4幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=383938cb26384ace8144f2be0284f567",
+    "datetime": "2019-05-31 18:01:22"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=383938cb26384ace8144f2be0284f567",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=16531f430ad34f75a1c76c448d73c9f1",
+        "datetime": "2019-05-31 18:01:37"
+      },
+      {
+        "title": "雍澜府1、3、4幢购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=c2da9522e1084a4fa9d8d42bdadede88",
+        "datetime": "2019-05-31 18:02:23"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0531/190531180208075_13681503507795275.pdf"
+}

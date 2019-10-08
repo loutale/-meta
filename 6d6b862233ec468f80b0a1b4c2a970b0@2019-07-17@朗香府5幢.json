@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "朗香府5幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=6d6b862233ec468f80b0a1b4c2a970b0",
+    "datetime": "2019-07-17 09:16:13"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=6d6b862233ec468f80b0a1b4c2a970b0",
+    "items": [
+      {
+        "title": "公 告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a1c11c2c3866482a8d31aaf6c4076c75",
+        "datetime": "2019-07-17 09:16:50"
+      },
+      {
+        "title": "朗香府5幢 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=bb69bec48db543bda26271a7d1e03802",
+        "datetime": "2019-07-17 09:18:28"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0717/190717091814600_17710870696199099.pdf"
+}

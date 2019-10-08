@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "麓宸府3号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=87433ce0ec9b4368b0c9d6f7f9785eb0",
+    "datetime": "2018-10-17 08:34:06"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=87433ce0ec9b4368b0c9d6f7f9785eb0",
+    "items": [
+      {
+        "title": "“麓宸府3号楼”销售公开摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=2f137849c3e74790a758ab875bf1a73e",
+        "datetime": "2018-10-17 08:34:30"
+      },
+      {
+        "title": "“麓宸府3号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=439d721b0d6d4c0e858a4b2ec2eb461d",
+        "datetime": "2018-10-17 08:46:34"
+      },
+      {
+        "title": "“麓宸府3号楼”销售公开公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=99ad04b5f71f4fe79aa29bfdf4d39ef3",
+        "datetime": "2018-10-18 10:02:48"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1017/181017084616984_2462706421752603.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/1018/181018100238132_2553688004884074.pdf"
+}

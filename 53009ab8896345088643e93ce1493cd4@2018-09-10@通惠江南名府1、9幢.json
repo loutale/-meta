@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "通惠江南名府1、9幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=53009ab8896345088643e93ce1493cd4",
+    "datetime": "2018-09-10 09:10:59"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=53009ab8896345088643e93ce1493cd4",
+    "items": [
+      {
+        "title": "“通惠江南名府1、9幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=15164cdb866d47e28553ab6a3fd7883f",
+        "datetime": "2018-09-10 09:13:02"
+      },
+      {
+        "title": "“通惠江南名府1、9幢”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a39d57c20678430f8335def71008c47b",
+        "datetime": "2018-09-10 09:12:15"
+      },
+      {
+        "title": "“通惠江南名府1、9幢”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a6097a6bd07d440d87a824e16f72e7bd",
+        "datetime": "2018-09-11 10:18:35"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0910/180910091214873_6281122209236146.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0911/180911101745903_6371456010637713.pdf"
+}

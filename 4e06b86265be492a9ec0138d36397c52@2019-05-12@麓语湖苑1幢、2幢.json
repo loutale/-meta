@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "麓语湖苑1幢、2幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=4e06b86265be492a9ec0138d36397c52",
+    "datetime": "2019-05-12 21:21:07"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=4e06b86265be492a9ec0138d36397c52",
+    "items": [
+      {
+        "title": "\"麓语湖苑1幢、2幢\"公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=18aaebed5208480f9784b686ee1723eb",
+        "datetime": "2019-05-12 21:21:44"
+      },
+      {
+        "title": "\"麓语湖苑1幢、2幢\"公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=5ffe01f175fa476a8b896f236ab5c677",
+        "datetime": "2019-05-14 09:30:07"
+      },
+      {
+        "title": "\"麓语湖苑1幢、2幢\"购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=b95c7f4c4b9847c88672596463186b23",
+        "datetime": "2019-05-12 21:33:01"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0512/190512213232176_12052527643754967.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0514/190514093000363_12181975658392661.pdf"
+}

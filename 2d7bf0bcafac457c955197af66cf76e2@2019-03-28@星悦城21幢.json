@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "星悦城21幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2d7bf0bcafac457c955197af66cf76e2",
+    "datetime": "2019-03-28 18:01:02"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2d7bf0bcafac457c955197af66cf76e2",
+    "items": [
+      {
+        "title": "“星悦城21幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=21db9491e83345b08fc699833fdf4ec6",
+        "datetime": "2019-03-28 18:04:10"
+      },
+      {
+        "title": "“星悦城21幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=7940f0e9ccab485aa324e26b8e95c775",
+        "datetime": "2019-03-28 18:01:25"
+      },
+      {
+        "title": "“星悦城21幢”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a4244ee76aa94d5196b0605995e2280e",
+        "datetime": "2019-03-29 18:51:32"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0328/190328180350787_8152006469119763.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0329/190329185122318_8241258117166284.pdf"
+}

@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "水悦花园9幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2d7a0b84657440bab2c5a45a66f55ab7",
+    "datetime": "2019-01-05 12:17:15"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2d7a0b84657440bab2c5a45a66f55ab7",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=7749f646cd754d94b3a32ee03a5a8081",
+        "datetime": "2019-01-05 12:17:33"
+      },
+      {
+        "title": "水悦花园9幢购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=e7593019d52040f4a199ddd27d84f943",
+        "datetime": "2019-01-05 12:21:39"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0105/190105122127607_1046663820463758.pdf"
+}

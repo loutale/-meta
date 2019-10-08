@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "御江南华庭10幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=5dd4e81cb1ee4a488ad45860fd07f111",
+    "datetime": "2019-04-11 08:45:57"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=5dd4e81cb1ee4a488ad45860fd07f111",
+    "items": [
+      {
+        "title": "“御江南华庭10幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=50811699bd75440ababdee90291fa90b",
+        "datetime": "2019-04-12 10:19:23"
+      },
+      {
+        "title": "“御江南华庭10幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=d041147b6d404d2f8443f9ef876a3ad3",
+        "datetime": "2019-04-11 08:49:05"
+      },
+      {
+        "title": "“御江南华庭10幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=fe700a1c521144cab6b8a51f37dd59f1",
+        "datetime": "2019-04-11 08:55:52"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0411/190411085532690_9328708377994122.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0412/190412101916331_9420132249780973.pdf"
+}

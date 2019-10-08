@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "悦庭1幢、3幢、5幢、6幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=ec72b129d41b4999b37113ccb6405c6d",
+    "datetime": "2019-07-17 08:32:21"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=ec72b129d41b4999b37113ccb6405c6d",
+    "items": [
+      {
+        "title": "“悦庭1幢、3幢、5幢、6幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=3b66bfa5e44a4776a5896985f85aad8e",
+        "datetime": "2019-07-18 09:18:22"
+      },
+      {
+        "title": "“悦庭1幢、3幢、5幢、6幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=651abb6dcae14890b3f68dbe93c79a9a",
+        "datetime": "2019-07-17 08:33:03"
+      },
+      {
+        "title": "“悦庭1幢、3幢、5幢、6幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=87d6394f9dff4346a4c7ba8c31854c9a",
+        "datetime": "2019-07-17 08:44:34"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0717/190717090624788_17710159952539734.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0718/190718091817357_17797271139421564.pdf"
+}

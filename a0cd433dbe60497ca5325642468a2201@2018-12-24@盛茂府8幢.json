@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "盛茂府8幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=a0cd433dbe60497ca5325642468a2201",
+    "datetime": "2018-12-24 13:31:48"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=a0cd433dbe60497ca5325642468a2201",
+    "items": [
+      {
+        "title": "盛茂府8幢购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=7a9d92f0cba54d39a94b88f32f56d588",
+        "datetime": "2018-12-24 13:34:15"
+      },
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=b3c1222c1b174769aa4b510eb5dc5d2b",
+        "datetime": "2018-12-24 13:32:05"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1224/181224133400576_14217700123674.pdf"
+}

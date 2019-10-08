@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "相贤府1幢、2幢、3幢、5幢、6幢、7幢、9幢、13幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=3dcdccf66c7b4f0d88dc730936017237",
+    "datetime": "2018-09-14 08:31:49"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=3dcdccf66c7b4f0d88dc730936017237",
+    "items": [
+      {
+        "title": "“相贤府1幢、2幢、3幢、5幢、6幢、7幢、9幢、13幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=08d81b7c65a94fd0b7e1a17150fe430a",
+        "datetime": "2018-09-14 08:35:16"
+      },
+      {
+        "title": "“相贤府1幢、2幢、3幢、5幢、6幢、7幢、9幢、13幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=29cf4bc7963a45b58f094bf287ba5a42",
+        "datetime": "2018-09-14 08:32:36"
+      },
+      {
+        "title": "“相贤府1幢、2幢、3幢、5幢、6幢、7幢、9幢、13幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ebd44885f3364a56b10febd50da5c853",
+        "datetime": "2018-09-15 10:21:06"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0914/180914083457544_6624446631055907.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0915/180915102057771_6717206769577778.pdf"
+}

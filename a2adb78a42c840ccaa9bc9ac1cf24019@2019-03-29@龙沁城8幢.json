@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "龙沁城8幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=a2adb78a42c840ccaa9bc9ac1cf24019",
+    "datetime": "2019-03-29 10:55:33"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=a2adb78a42c840ccaa9bc9ac1cf24019",
+    "items": [
+      {
+        "title": "公 告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=84ace54b9cbb4fd98988731f9a6d9bc3",
+        "datetime": "2019-03-29 10:56:51"
+      },
+      {
+        "title": "龙沁城8幢 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=9082c89f79bc46ae87e4843a7a14338e",
+        "datetime": "2019-03-29 10:58:37"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0329/190329105820506_8212876408971332.pdf"
+}

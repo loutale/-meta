@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "时代天元城1、2、4、5号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=44a1c1f2e4d44b898fc2526db66adae8",
+    "datetime": "2018-08-18 08:49:43"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=44a1c1f2e4d44b898fc2526db66adae8",
+    "items": [
+      {
+        "title": "“时代天元城1、2、4、5号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=8c9b776caf654e37b7cf66f2d91efb86",
+        "datetime": "2018-08-18 08:54:26"
+      },
+      {
+        "title": "“时代天元城1、2、4、5号楼”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=c5fa93765ab545cd9453d490e1c76ed7",
+        "datetime": "2018-08-19 10:07:57"
+      },
+      {
+        "title": "“时代天元城1、2、4、5号楼”销售公开摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=e2e23da59b8648399551ff3926c787a0",
+        "datetime": "2018-08-18 08:50:28"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0818/180818085351596_4292782151553426.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0819/180819100737121_4383611088269079.pdf"
+}

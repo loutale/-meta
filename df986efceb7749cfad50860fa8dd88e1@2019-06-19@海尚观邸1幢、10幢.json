@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "海尚观邸1幢、10幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=df986efceb7749cfad50860fa8dd88e1",
+    "datetime": "2019-06-19 08:43:18"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=df986efceb7749cfad50860fa8dd88e1",
+    "items": [
+      {
+        "title": "“海尚观邸1幢、10幢”销售公开摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=0a904072622947d2bf07aaad8c3fd67b",
+        "datetime": "2019-06-19 08:43:57"
+      },
+      {
+        "title": "“海尚观邸1幢、10幢”销售公开摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=9294b4bd22464294898cb3c37773e22d",
+        "datetime": "2019-06-20 10:52:14"
+      },
+      {
+        "title": "“海尚观邸1幢、10幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=9cdb9feccf9840e892a23f1161cf83bb",
+        "datetime": "2019-06-19 08:52:37"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0619/190619085214157_15290110199629118.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0620/190620105208046_15383703552948863.pdf"
+}

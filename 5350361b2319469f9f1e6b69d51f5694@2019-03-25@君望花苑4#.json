@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "君望花苑4#",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=5350361b2319469f9f1e6b69d51f5694",
+    "datetime": "2019-03-25 17:10:22"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=5350361b2319469f9f1e6b69d51f5694",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=c55494d84948495b82f38c88ae668a58",
+        "datetime": "2019-03-25 17:10:50"
+      },
+      {
+        "title": "君望花苑4#购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=da04223e6d9d4245bbaabfa4cca585b7",
+        "datetime": "2019-03-25 17:12:53"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0325/190325171237347_7889733034864619.pdf"
+}

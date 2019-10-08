@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "中天珺府98幢、99幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=ed7b3f5551c24ac5ba8d3da670e2e571",
+    "datetime": "2018-07-05 09:15:24"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=ed7b3f5551c24ac5ba8d3da670e2e571",
+    "items": [
+      {
+        "title": "“中天珺府98幢、99幢”销售公开摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=250134cd0ffc4d15aa7fb2d1bcffc534",
+        "datetime": "2018-07-05 09:16:42"
+      },
+      {
+        "title": "“中天珺府98幢、99幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=659e221835bc456d871944c3996adf48",
+        "datetime": "2018-07-05 09:20:23"
+      },
+      {
+        "title": "“中天珺府98幢、99幢”销售公开摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=aea035180f2148ae861514fdab3adc6d",
+        "datetime": "2018-07-06 11:05:37"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0705/180705092631342_492991396513398.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0706/180706110751170_585474581998937.pdf"
+}

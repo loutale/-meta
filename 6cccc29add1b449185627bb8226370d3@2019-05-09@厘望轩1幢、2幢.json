@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "厘望轩1幢、2幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=6cccc29add1b449185627bb8226370d3",
+    "datetime": "2019-05-09 08:43:37"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=6cccc29add1b449185627bb8226370d3",
+    "items": [
+      {
+        "title": "“厘望轩1幢、2幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=1b1cd3464bb647bbb3366ecd1c0713b4",
+        "datetime": "2019-05-10 10:23:03"
+      },
+      {
+        "title": "“厘望轩1幢、2幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=6e47e847700d47f5a531941e6d3ee419",
+        "datetime": "2019-05-09 08:48:09"
+      },
+      {
+        "title": "“厘望轩1幢、2幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=d4b1147a0acb4ed5bd711f1ca168d330",
+        "datetime": "2019-05-09 08:43:58"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0509/190509084756722_11747452018487334.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0510/190510102258879_11839553439385682.pdf"
+}

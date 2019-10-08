@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "吴越府5幢、6幢、21幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=01f3ff456f674436ac4d7ceb9dbc788f",
+    "datetime": "2019-05-04 21:23:02"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=01f3ff456f674436ac4d7ceb9dbc788f",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=c22df0ba13574d0497df546fb17d60bb",
+        "datetime": "2019-05-04 21:23:22"
+      },
+      {
+        "title": "吴越府5幢、6幢、21幢购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=cb44439d1921405d960ed6a59b424d4b",
+        "datetime": "2019-05-04 21:26:35"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0504/190504212616241_11360953186431291.pdf"
+}

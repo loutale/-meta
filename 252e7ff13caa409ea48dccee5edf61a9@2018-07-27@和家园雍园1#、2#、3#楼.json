@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "和家园雍园1#、2#、3#楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=252e7ff13caa409ea48dccee5edf61a9",
+    "datetime": "2018-07-27 14:42:00"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=252e7ff13caa409ea48dccee5edf61a9",
+    "items": [
+      {
+        "title": "公 告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=06b5a2823bba46538e62f5533f84db09",
+        "datetime": "2018-07-27 14:42:26"
+      },
+      {
+        "title": "和家园雍园1#、2#、3#楼购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a220b6a05ad64160a2a2b8c455c2dfd0",
+        "datetime": "2018-07-27 14:44:58"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0727/180727144445409_2413030819345946.pdf"
+}

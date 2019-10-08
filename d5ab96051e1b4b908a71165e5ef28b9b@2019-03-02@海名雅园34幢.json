@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "海名雅园34幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=d5ab96051e1b4b908a71165e5ef28b9b",
+    "datetime": "2019-03-02 12:04:14"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=d5ab96051e1b4b908a71165e5ef28b9b",
+    "items": [
+      {
+        "title": "“海名雅园34幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=63cda20c82b74280a92816ab5facc35a",
+        "datetime": "2019-03-02 12:10:12"
+      },
+      {
+        "title": "“海名雅园34幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=cfa0538be92140a99ed58df9f085ba65",
+        "datetime": "2019-03-02 12:04:33"
+      },
+      {
+        "title": "“海名雅园34幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=fdd2beaf0aab4f17a76125d48a9ccd63",
+        "datetime": "2019-03-03 13:47:34"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0302/190302120951551_5884370426128459.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0303/190303134723911_5976623101865458.pdf"
+}

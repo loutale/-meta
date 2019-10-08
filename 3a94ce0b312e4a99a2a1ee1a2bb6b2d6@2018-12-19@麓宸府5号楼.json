@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "麓宸府5号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=3a94ce0b312e4a99a2a1ee1a2bb6b2d6",
+    "datetime": "2018-12-19 14:22:37"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=3a94ce0b312e4a99a2a1ee1a2bb6b2d6",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=03eddb4bddc942c8b6c68ebe8e777468",
+        "datetime": "2018-12-19 14:22:57"
+      },
+      {
+        "title": "麓宸府5号楼 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ac17ebc26896436689fe850940a9405d",
+        "datetime": "2018-12-19 14:26:41"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1219/181219142607602_7926292188973650.pdf"
+}

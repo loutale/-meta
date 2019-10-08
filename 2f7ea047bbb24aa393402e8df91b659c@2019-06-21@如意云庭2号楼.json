@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "如意云庭2号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2f7ea047bbb24aa393402e8df91b659c",
+    "datetime": "2019-06-21 09:05:52"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2f7ea047bbb24aa393402e8df91b659c",
+    "items": [
+      {
+        "title": "“如意云庭2号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=55e62ec19b8243c1a4acd5ab29a4a84d",
+        "datetime": "2019-06-21 09:13:59"
+      },
+      {
+        "title": "“如意云庭2号楼”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ba558418c47e4a279b307bbc4c0a2f80",
+        "datetime": "2019-06-21 09:10:31"
+      },
+      {
+        "title": "“如意云庭2号楼”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=e9e39a4823ba4d28ba8a79ac01eec98d",
+        "datetime": "2019-06-22 09:46:16"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0621/190621091342468_15464197588625509.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0622/190622094612093_15552547615997786.pdf"
+}

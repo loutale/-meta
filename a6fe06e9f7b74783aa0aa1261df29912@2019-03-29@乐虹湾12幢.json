@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "乐虹湾12幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=a6fe06e9f7b74783aa0aa1261df29912",
+    "datetime": "2019-03-29 08:37:42"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=a6fe06e9f7b74783aa0aa1261df29912",
+    "items": [
+      {
+        "title": "“乐虹湾12幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=5de331bec16e448f9c030e8c953479e9",
+        "datetime": "2019-03-29 08:40:41"
+      },
+      {
+        "title": "“乐虹湾12幢”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=7283072a649f46d5918507bd8394f03e",
+        "datetime": "2019-03-30 09:26:47"
+      },
+      {
+        "title": "“乐虹湾12幢”销售公开摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=b7ed185fe8a448729ac659879fddd050",
+        "datetime": "2019-03-29 08:38:17"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0329/190329084024553_8204600090434006.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0330/190330092639537_8293775472848461.pdf"
+}

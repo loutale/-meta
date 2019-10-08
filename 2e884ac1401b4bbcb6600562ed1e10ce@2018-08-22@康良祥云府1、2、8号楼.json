@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "康良祥云府1、2、8号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2e884ac1401b4bbcb6600562ed1e10ce",
+    "datetime": "2018-08-22 00:35:19"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2e884ac1401b4bbcb6600562ed1e10ce",
+    "items": [
+      {
+        "title": "“康良祥云府1、2、8号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=5f2cb27b3b9047e49b8cd2641621c751",
+        "datetime": "2018-08-22 00:39:09"
+      },
+      {
+        "title": "“康良祥云府1、2、8号楼”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=67893bf270d7467fa8d81e04df51e1ef",
+        "datetime": "2018-08-22 00:36:08"
+      },
+      {
+        "title": "“康良祥云府1、2、8号楼”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=db80b6ca64284de398529c24e81d27de",
+        "datetime": "2018-08-23 11:16:48"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0822/180822003818570_4608665389626782.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0823/180823111619663_4733350923137533.pdf"
+}

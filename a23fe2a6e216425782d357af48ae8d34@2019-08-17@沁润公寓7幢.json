@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "沁润公寓7幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=a23fe2a6e216425782d357af48ae8d34",
+    "datetime": "2019-08-17 08:20:59"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=a23fe2a6e216425782d357af48ae8d34",
+    "items": [
+      {
+        "title": "“沁润公寓7幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=876a7d8398324fd5888800a58a73ab8d",
+        "datetime": "2019-08-17 08:21:40"
+      },
+      {
+        "title": "“沁润公寓7幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ae3f0b95239246ab93fc3bd35f0ed19e",
+        "datetime": "2019-08-18 09:49:47"
+      },
+      {
+        "title": "“沁润公寓7幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ec5545e33fd445129ce7a9e9fdc841d8",
+        "datetime": "2019-08-17 08:23:43"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0817/190817082327399_20385982345645571.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0818/190818094941945_20477556982454199.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "云都汇中心2、3、4、5、6幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=8b7b914263eb42b8b932b38afcdedd1c",
+    "datetime": "2019-08-14 13:31:31"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=8b7b914263eb42b8b932b38afcdedd1c",
+    "items": [
+      {
+        "title": "“云都汇中心2、3、4、5、6幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=0cbc6309b8f5440d89ccf9621075d799",
+        "datetime": "2019-08-14 13:49:14"
+      },
+      {
+        "title": "“云都汇中心2、3、4、5、6幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=2002391cb7fa4be5b91595d2fcea63e0",
+        "datetime": "2019-08-15 14:24:14"
+      },
+      {
+        "title": "“云都汇中心2、3、4、5、6幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=21a282e8c2dd4619a44d5af692df8202",
+        "datetime": "2019-08-14 13:32:15"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0814/190814134852829_20146308712139871.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0815/190815142409133_20234824359935676.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "前湾中区5幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=6ec4dec16e5e4457bb0371c6934125e2",
+    "datetime": "2019-03-25 10:14:29"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=6ec4dec16e5e4457bb0371c6934125e2",
+    "items": [
+      {
+        "title": "“前湾中区5幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=05fac0bc1194492d807ec2748e66a22f",
+        "datetime": "2019-03-26 10:52:39"
+      },
+      {
+        "title": "“前湾中区5幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=1eef5e035c8942408b568a19dfa59652",
+        "datetime": "2019-03-25 10:15:54"
+      },
+      {
+        "title": "“前湾中区5幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=65a32b205ba34299a538e052c4d0d2a0",
+        "datetime": "2019-03-25 10:32:44"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0325/190325103039228_7865615045843924.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0326/190326105233771_7953328888044578.pdf"
+}

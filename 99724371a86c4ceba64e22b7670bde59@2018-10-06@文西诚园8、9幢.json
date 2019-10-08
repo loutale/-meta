@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "文西诚园8、9幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=99724371a86c4ceba64e22b7670bde59",
+    "datetime": "2018-10-06 09:35:08"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=99724371a86c4ceba64e22b7670bde59",
+    "items": [
+      {
+        "title": "“文西诚园8、9幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=385c634e93d544d3b399553f129d739a",
+        "datetime": "2018-10-06 09:35:36"
+      },
+      {
+        "title": "“文西诚园8、9幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=615c0b5fa9214d1a8b0a3e69d72cce1c",
+        "datetime": "2018-10-06 09:37:55"
+      },
+      {
+        "title": "“文西诚园8、9幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=c93fb1285754403aaf1935e0fea4fcb9",
+        "datetime": "2018-10-08 13:41:59"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1006/181006093734585_1515384556629880.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/1008/181008134149364_1702839342850851.pdf"
+}

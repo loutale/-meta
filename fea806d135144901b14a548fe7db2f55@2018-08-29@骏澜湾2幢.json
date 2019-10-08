@@ -1,0 +1,34 @@
+{
+  "item": {
+    "title": "骏澜湾2幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=fea806d135144901b14a548fe7db2f55",
+    "datetime": "2018-08-29 09:16:23"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=fea806d135144901b14a548fe7db2f55",
+    "items": [
+      {
+        "title": "“骏澜湾2幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=0b550fe6d0f24aa4aed4a962e2d6d6e5",
+        "datetime": "2018-08-29 09:18:07"
+      },
+      {
+        "title": "“骏澜湾2幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=2ff86a5b27aa4b859675251ae0dbffde",
+        "datetime": "2018-08-29 09:29:10"
+      },
+      {
+        "title": "“骏澜湾2幢”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=8c8b443ff0a34b99a6c8fbbc09381bf7",
+        "datetime": "2018-08-30 10:20:55"
+      },
+      {
+        "title": "补充公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=c841981855c44307a5920e637dc81b90",
+        "datetime": "2018-08-29 17:08:32"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0829/180829092726827_5245199373219031.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0830/180830102036905_5334792364047766.pdf"
+}

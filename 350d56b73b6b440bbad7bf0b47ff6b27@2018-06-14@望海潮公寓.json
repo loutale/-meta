@@ -1,0 +1,28 @@
+{
+  "item": {
+    "title": "望海潮公寓",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=350d56b73b6b440bbad7bf0b47ff6b27",
+    "datetime": "2018-06-14 10:06:20"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=350d56b73b6b440bbad7bf0b47ff6b27",
+    "items": [
+      {
+        "title": "“望海潮公寓”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=01ed873259ad43c9ae9ddf250661bc34",
+        "datetime": "2018-06-15 11:03:35"
+      },
+      {
+        "title": "“望海潮公寓”购房意向登记表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=bd56146ca666464ea8a63a8e0b5f0e6f",
+        "datetime": "2018-06-14 10:09:42"
+      },
+      {
+        "title": "“望海潮公寓”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=fbad363e73714523ac025172211050c9",
+        "datetime": "2018-06-14 10:06:49"
+      }
+    ]
+  },
+  "result": "http://115.236.11.35:10006/pdf/2018/0615/180615110438371_95556410067169.pdf"
+}

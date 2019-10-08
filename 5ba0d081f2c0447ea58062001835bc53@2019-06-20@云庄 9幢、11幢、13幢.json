@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "云庄 9幢、11幢、13幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=5ba0d081f2c0447ea58062001835bc53",
+    "datetime": "2019-06-20 16:59:25"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=5ba0d081f2c0447ea58062001835bc53",
+    "items": [
+      {
+        "title": "“云庄 9幢、11幢、13幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=2bfa9aad86484c249c68997e8efa9775",
+        "datetime": "2019-06-20 17:00:03"
+      },
+      {
+        "title": "“云庄 9幢、11幢、13幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=5ad6eb03365b4307a2d9b34de4d12e81",
+        "datetime": "2019-06-21 17:19:32"
+      },
+      {
+        "title": "“云庄 9幢、11幢、13幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=dfe22e5aa4de46bba2f96ccf0e5c6fb9",
+        "datetime": "2019-06-20 17:00:42"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0620/190620170029093_15405804540714308.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0621/190621171928280_15493343940482632.pdf"
+}

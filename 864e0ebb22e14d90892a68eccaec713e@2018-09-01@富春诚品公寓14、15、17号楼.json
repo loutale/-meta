@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "富春诚品公寓14、15、17号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=864e0ebb22e14d90892a68eccaec713e",
+    "datetime": "2018-09-01 08:44:25"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=864e0ebb22e14d90892a68eccaec713e",
+    "items": [
+      {
+        "title": "“富春诚品公寓14、15、17号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=0db9f85cbe4946e2b72e400bdf4947f3",
+        "datetime": "2018-09-01 08:47:28"
+      },
+      {
+        "title": "“富春诚品公寓14、15、17号楼”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=4d4f128e064b4eb39ce287d2341e6f1e",
+        "datetime": "2018-09-01 08:45:13"
+      },
+      {
+        "title": "“富春诚品公寓14、15、17号楼”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=70e416ec6e5e4134a10b498b1b577179",
+        "datetime": "2018-09-03 09:30:13"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0901/180901084655425_5501976605849932.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0903/180903092950004_5677357111014726.pdf"
+}

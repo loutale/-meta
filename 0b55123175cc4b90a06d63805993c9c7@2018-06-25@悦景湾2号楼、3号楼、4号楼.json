@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "悦景湾2号楼、3号楼、4号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=0b55123175cc4b90a06d63805993c9c7",
+    "datetime": "2018-06-25 07:59:04"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=0b55123175cc4b90a06d63805993c9c7",
+    "items": [
+      {
+        "title": "“悦景湾2号楼、3号楼、4号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=2e4b6ccf51f74a848ee8d4eb00b3f4e8",
+        "datetime": "2018-06-25 08:05:57"
+      },
+      {
+        "title": "“悦景湾2号楼、3号楼、4号楼”销售公开摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=4c3249a3609e4266bd3bca197d7b2879",
+        "datetime": "2018-06-25 07:59:26"
+      },
+      {
+        "title": "\"悦景湾2号楼、3号楼、4号楼\"公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=db3717c11cea45cc9a9a44e0a2c383e4",
+        "datetime": "2018-06-26 10:05:37"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0625/180625080726636_446895479314879.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0626/180626100658570_540470437411410.pdf"
+}

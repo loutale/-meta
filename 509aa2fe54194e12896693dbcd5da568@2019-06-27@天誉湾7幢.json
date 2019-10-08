@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "天誉湾7幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=509aa2fe54194e12896693dbcd5da568",
+    "datetime": "2019-06-27 15:59:24"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=509aa2fe54194e12896693dbcd5da568",
+    "items": [
+      {
+        "title": "“天誉湾7幢”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=0fb5163d0d714188a5905098bb0a05d3",
+        "datetime": "2019-06-27 15:59:30"
+      },
+      {
+        "title": "“天誉湾7幢”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=5537d19a2613483187779ca5fc4a45e1",
+        "datetime": "2019-06-28 16:21:42"
+      },
+      {
+        "title": "“天誉湾7幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=657f65a71e7c4eb8b0ae2dda7bd7c365",
+        "datetime": "2019-06-27 15:59:36"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0627/190627160022824_16006998046346245.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0628/190628162129839_16094665221746493.pdf"
+}

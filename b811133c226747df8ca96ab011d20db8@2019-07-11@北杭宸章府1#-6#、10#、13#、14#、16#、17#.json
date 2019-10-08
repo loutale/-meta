@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "北杭宸章府1#-6#、10#、13#、14#、16#、17#",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=b811133c226747df8ca96ab011d20db8",
+    "datetime": "2019-07-11 08:49:18"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=b811133c226747df8ca96ab011d20db8",
+    "items": [
+      {
+        "title": "“北杭宸章府1#-6#、10#、13#、14#、16#、17#”（三叠墅）公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=12d3d90280c042faae1b2906dbe386c4",
+        "datetime": "2019-07-12 10:17:54"
+      },
+      {
+        "title": "“北杭宸章府1#-6#、10#、13#、14#、16#、17#”（三叠墅）购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=15b48023dda94533a0aef3ac084d4a96",
+        "datetime": "2019-07-11 08:58:01"
+      },
+      {
+        "title": "“北杭宸章府1#-6#、10#、13#、14#、16#、17#”（三叠墅）公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=4028c0a61e8c4d598c67054c0dd200d2",
+        "datetime": "2019-07-11 08:49:44"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0711/190711085740610_17191235920038021.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0712/190712101750694_17282446261727934.pdf"
+}

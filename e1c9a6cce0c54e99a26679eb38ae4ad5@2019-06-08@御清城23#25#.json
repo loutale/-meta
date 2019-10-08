@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "御清城23#25#",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=e1c9a6cce0c54e99a26679eb38ae4ad5",
+    "datetime": "2019-06-08 11:17:59"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=e1c9a6cce0c54e99a26679eb38ae4ad5",
+    "items": [
+      {
+        "title": "“御清城23#25#”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=2731c09dc8c04afd840cb56211aea9f0",
+        "datetime": "2019-06-10 09:52:28"
+      },
+      {
+        "title": "“御清城23#25#”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=792e162fa6d74f4b98cbe0c7b853de49",
+        "datetime": "2019-06-08 11:20:31"
+      },
+      {
+        "title": "“御清城23#25#”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=823afcf6fa8b4e83a7bf7d4edfd588b5",
+        "datetime": "2019-06-08 11:18:23"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0608/190608112018526_14348593967549753.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0610/190610095222010_14516117811727671.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "春暖花都18幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=35b87c7abffa4699acb62d07e5750954",
+    "datetime": "2018-12-08 08:35:45"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=35b87c7abffa4699acb62d07e5750954",
+    "items": [
+      {
+        "title": "“春暖花都18幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=21b5c54b69494219aabd682241a3d510",
+        "datetime": "2018-12-08 08:38:27"
+      },
+      {
+        "title": "“春暖花都18幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=4d3cbea1131a4416b1ef023351563025",
+        "datetime": "2018-12-09 10:19:21"
+      },
+      {
+        "title": "“春暖花都18幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ae55503cf05b4c7386196115402c6ea8",
+        "datetime": "2018-12-08 08:36:16"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1208/181208083804667_6955014520729695.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/1209/181209101914381_7047484341048365.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "听澜越府5号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=827dc68023dd4f268f38ee943f5a943b",
+    "datetime": "2019-06-23 12:00:22"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=827dc68023dd4f268f38ee943f5a943b",
+    "items": [
+      {
+        "title": "“听澜越府5号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a1e3e233c85c4951aa34a057a64fd596",
+        "datetime": "2019-06-23 12:03:59"
+      },
+      {
+        "title": "“听澜越府5号楼”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=d58abf23afb44c249393332efdb61d25",
+        "datetime": "2019-06-24 12:16:15"
+      },
+      {
+        "title": "“听澜越府5号楼”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=fe938c12d3ab48a5adc6f5d4f8ca5b20",
+        "datetime": "2019-06-23 12:00:29"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0623/190623120337936_15647193716144794.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0624/190624121609452_15734345318765720.pdf"
+}

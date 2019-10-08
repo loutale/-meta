@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "和家园臻园",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=8b62cacb0fee410581805a18e158852f",
+    "datetime": "2018-06-19 09:04:56"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=8b62cacb0fee410581805a18e158852f",
+    "items": [
+      {
+        "title": "“和家园臻园”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=0e6160a858154244a6fd72e6204e91fb",
+        "datetime": "2018-06-19 09:28:05"
+      },
+      {
+        "title": "“和家园臻园”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=257fcb9387a64393ab5c21a853172b10",
+        "datetime": "2018-06-20 10:05:33"
+      },
+      {
+        "title": "“和家园臻园”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=839b7840337c4b7b93cf085516d5c117",
+        "datetime": "2018-06-19 09:05:57"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0619/180619121101262_331617838250228.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0620/180620100734918_22094219778190.pdf"
+}

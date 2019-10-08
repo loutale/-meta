@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "云之宸府1幢、2幢、3幢、4幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=439f8620273b40a7a0bdea2ac70b015f",
+    "datetime": "2019-08-16 09:05:47"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=439f8620273b40a7a0bdea2ac70b015f",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=4dc6237875e34ca7ad1d429ade025aed",
+        "datetime": "2019-08-16 10:48:07"
+      },
+      {
+        "title": "云之宸府1幢、2幢、3幢、4幢 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=8bccc1df97ee4396acf4fb2a40b372f1",
+        "datetime": "2019-08-16 10:51:56"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0816/190816105145195_20308479611655034.pdf"
+}

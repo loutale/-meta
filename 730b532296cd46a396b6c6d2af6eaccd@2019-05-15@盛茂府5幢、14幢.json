@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "盛茂府5幢、14幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=730b532296cd46a396b6c6d2af6eaccd",
+    "datetime": "2019-05-15 09:53:29"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=730b532296cd46a396b6c6d2af6eaccd",
+    "items": [
+      {
+        "title": "“盛茂府5幢、14幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=7e6246f1eca14d6ba790ca6aa90e94a2",
+        "datetime": "2019-05-15 10:06:39"
+      },
+      {
+        "title": "“盛茂府5幢、14幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=c28b22a49a15425d8636202c6610733e",
+        "datetime": "2019-05-16 10:47:59"
+      },
+      {
+        "title": "“盛茂府5幢、14幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=c550118767cf430298d64e41f8457246",
+        "datetime": "2019-05-15 09:53:59"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0515/190515100617832_12270553855243492.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0516/190516104754379_12359449573671846.pdf"
+}

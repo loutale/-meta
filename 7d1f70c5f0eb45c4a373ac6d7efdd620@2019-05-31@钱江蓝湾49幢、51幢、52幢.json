@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "钱江蓝湾49幢、51幢、52幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=7d1f70c5f0eb45c4a373ac6d7efdd620",
+    "datetime": "2019-05-31 08:54:58"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=7d1f70c5f0eb45c4a373ac6d7efdd620",
+    "items": [
+      {
+        "title": "“钱江蓝湾49幢、51幢、52幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=8119a720453543e08eaa2ceb127efe79",
+        "datetime": "2019-05-31 09:01:21"
+      },
+      {
+        "title": "“钱江蓝湾49幢、51幢、52幢”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ab4ce24bc0144a93bbf7182a17f68aad",
+        "datetime": "2019-06-01 11:23:32"
+      },
+      {
+        "title": "“钱江蓝湾49幢、51幢、52幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ae7de4e520f640aa8532a87c945606a5",
+        "datetime": "2019-05-31 08:55:52"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0531/190531090056684_13649032010287528.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0601/190601112323200_13743978778879443.pdf"
+}

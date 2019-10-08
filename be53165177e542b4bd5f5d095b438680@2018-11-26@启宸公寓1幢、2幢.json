@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "启宸公寓1幢、2幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=be53165177e542b4bd5f5d095b438680",
+    "datetime": "2018-11-26 17:36:57"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=be53165177e542b4bd5f5d095b438680",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=5eaa0132a11545bcaa7bc221e231e2da",
+        "datetime": "2018-11-26 17:37:19"
+      },
+      {
+        "title": "启宸公寓1幢、2幢 购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=c9ee5ecdc10540a0bb4bbeabcf22233c",
+        "datetime": "2018-11-26 17:39:20"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1126/181126173902550_5950674746149465.pdf"
+}

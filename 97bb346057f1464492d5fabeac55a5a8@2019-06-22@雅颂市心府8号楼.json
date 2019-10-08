@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "雅颂市心府8号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=97bb346057f1464492d5fabeac55a5a8",
+    "datetime": "2019-06-22 08:57:47"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=97bb346057f1464492d5fabeac55a5a8",
+    "items": [
+      {
+        "title": "“雅颂市心府8号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=402aaa3299004a668e0727bcda5bc817",
+        "datetime": "2019-06-22 09:03:05"
+      },
+      {
+        "title": "“雅颂市心府8号楼”销售公开摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=98cde8b348ae48a4929a7fd495e44a1c",
+        "datetime": "2019-06-23 09:55:43"
+      },
+      {
+        "title": "“雅颂市心府8号楼”销售公开摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=fd9af15b172847ac8a1350170b6e07cf",
+        "datetime": "2019-06-22 08:58:19"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0622/190622090249639_15549945067031241.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0623/190623095535061_15639510913452257.pdf"
+}

@@ -1,0 +1,23 @@
+{
+  "item": {
+    "title": "文西诚园1幢、7幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2fcff3cc6c2441539b2911b55ba2aac6",
+    "datetime": "2018-10-20 11:47:42"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=2fcff3cc6c2441539b2911b55ba2aac6",
+    "items": [
+      {
+        "title": "公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=5f01ddf30b4642c6806ab7196fab2ec0",
+        "datetime": "2018-10-20 11:48:05"
+      },
+      {
+        "title": "“文西诚园1幢、7幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=9e6b6079b5584bcf8352ddd0622e145d",
+        "datetime": "2018-10-20 11:48:43"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1020/181020114833705_2732843743740141.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "和雅轩1幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=eb5eb7252dd145a99054ded1ad3e240c",
+    "datetime": "2019-09-09 20:00:02"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=eb5eb7252dd145a99054ded1ad3e240c",
+    "items": [
+      {
+        "title": "“和雅轩1幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a3cf812abb6146c38a79efd50389e7a6",
+        "datetime": "2019-09-09 20:00:34"
+      },
+      {
+        "title": "“和雅轩1幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=d366d3c5c7694189bd610200f566beb3",
+        "datetime": "2019-09-10 20:14:56"
+      },
+      {
+        "title": "“和雅轩1幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=e8f87240c30345a18f72ddae1f3122e3",
+        "datetime": "2019-09-09 20:01:52"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0909/190909200115045_22415053793080649.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0910/190910201443373_22502262020347680.pdf"
+}

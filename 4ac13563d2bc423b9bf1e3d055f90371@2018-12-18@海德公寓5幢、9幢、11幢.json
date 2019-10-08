@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "海德公寓5幢、9幢、11幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=4ac13563d2bc423b9bf1e3d055f90371",
+    "datetime": "2018-12-18 09:24:22"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=4ac13563d2bc423b9bf1e3d055f90371",
+    "items": [
+      {
+        "title": "“海德公寓5幢、9幢、11幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=6f9fdd5fb02c4585a4f11de5a3324ae6",
+        "datetime": "2018-12-18 09:29:13"
+      },
+      {
+        "title": "“海德公寓5幢、9幢、11幢”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=825b942a256543adb1290ca96825e8b3",
+        "datetime": "2018-12-18 09:25:18"
+      },
+      {
+        "title": "“海德公寓5幢、9幢、11幢”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=e42601e16c774ea7a24016dd93c2bd59",
+        "datetime": "2018-12-19 09:57:42"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/1218/181218092904785_7822073146086275.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/1219/181219095736454_7910186202381181.pdf"
+}

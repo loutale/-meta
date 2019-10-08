@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "御东方园13幢、14幢、18幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=f407dfde99244f43a7f263955d26872f",
+    "datetime": "2019-07-05 12:56:56"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=f407dfde99244f43a7f263955d26872f",
+    "items": [
+      {
+        "title": "“御东方园13幢、14幢、18幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=3aad49acba944a6dbdf02db17343b197",
+        "datetime": "2019-07-05 13:00:07"
+      },
+      {
+        "title": "“御东方园13幢、14幢、18幢”销售公开摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=3ea1c83aa2ac42998dec55770b905994",
+        "datetime": "2019-07-06 13:48:01"
+      },
+      {
+        "title": "“御东方园13幢、14幢、18幢”销售公开摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=7e568df6044d4c8990275bd51615e808",
+        "datetime": "2019-07-05 12:57:31"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0705/190705125947199_16687363634739789.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0706/190706134754699_16776651419855859.pdf"
+}

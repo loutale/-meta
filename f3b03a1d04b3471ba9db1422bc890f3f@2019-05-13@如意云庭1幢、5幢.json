@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "如意云庭1幢、5幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=f3b03a1d04b3471ba9db1422bc890f3f",
+    "datetime": "2019-05-13 18:10:18"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=f3b03a1d04b3471ba9db1422bc890f3f",
+    "items": [
+      {
+        "title": "“如意云庭1幢、5幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=82521b4980bc449f894ebfbd3f281ea9",
+        "datetime": "2019-05-13 18:10:50"
+      },
+      {
+        "title": "“如意云庭1幢、5幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=9f133115dd814c6ca497d8db312fd2ee",
+        "datetime": "2019-05-13 18:13:23"
+      },
+      {
+        "title": "“如意云庭1幢、5幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=cdbcb8a5589141cea28bc34012866770",
+        "datetime": "2019-05-15 09:50:42"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0513/190513181306973_12126962902310704.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0515/190515095037598_12269613754952961.pdf"
+}

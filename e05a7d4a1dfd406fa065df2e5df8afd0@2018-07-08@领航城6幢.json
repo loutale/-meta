@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "领航城6幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=e05a7d4a1dfd406fa065df2e5df8afd0",
+    "datetime": "2018-07-08 08:54:10"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=e05a7d4a1dfd406fa065df2e5df8afd0",
+    "items": [
+      {
+        "title": "“领航城6幢”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=06ec9ecd159147048561491e75aac82d",
+        "datetime": "2018-07-09 10:27:34"
+      },
+      {
+        "title": "“领航城6幢”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=362ee93819f944468c0b55240ce385d5",
+        "datetime": "2018-07-08 08:54:54"
+      },
+      {
+        "title": "“领航城6幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=774579d433774da583c9605a7401f11e",
+        "datetime": "2018-07-08 08:57:38"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0708/180708085933464_750582240648422.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0709/180709102935249_842387478453697.pdf"
+}

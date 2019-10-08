@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "创世邸",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=856a428feceb4bd8b204efd2aea9162d",
+    "datetime": "2018-08-21 20:39:53"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=856a428feceb4bd8b204efd2aea9162d",
+    "items": [
+      {
+        "title": "“创世邸”公开销售公证摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=04d601a5a23f421ca5b7c9332e83aaa7",
+        "datetime": "2018-08-21 20:40:57"
+      },
+      {
+        "title": "“创世邸”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=44408fa4fb8d4f21876c672de9d986a4",
+        "datetime": "2018-08-21 20:41:42"
+      },
+      {
+        "title": "“创世邸”公开销售公证摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=7974ae97410c4686a4230bf0861be070",
+        "datetime": "2018-08-23 09:49:58"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0821/180821204110041_4594436175380936.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0823/180823094928818_4728139899674357.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "水云城1、2、3、4、6号楼",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=4395a80551b0407a919dd3555e56c3db",
+    "datetime": "2018-07-30 10:40:24"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=4395a80551b0407a919dd3555e56c3db",
+    "items": [
+      {
+        "title": "“水云城1、2、3、4、6号楼”公开销售摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=1bfcc7806ff64872ba23552ebf42cee1",
+        "datetime": "2018-07-31 11:26:01"
+      },
+      {
+        "title": "“水云城1、2、3、4、6号楼”公开销售摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=7f7f6d483be241b78d3afa62a98d6955",
+        "datetime": "2018-07-30 10:40:53"
+      },
+      {
+        "title": "“水云城1、2、3、4、6号楼”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=ae384b86f8d34bc7a56c3b18e86f7290",
+        "datetime": "2018-07-30 10:47:28"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2018/0730/180730104700056_2657974065228213.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2018/0731/180731112533969_2746696132483206.pdf"
+}

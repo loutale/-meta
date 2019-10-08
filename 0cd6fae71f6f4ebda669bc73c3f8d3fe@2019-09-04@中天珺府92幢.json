@@ -1,0 +1,29 @@
+{
+  "item": {
+    "title": "中天珺府92幢",
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=0cd6fae71f6f4ebda669bc73c3f8d3fe",
+    "datetime": "2019-09-04 08:34:27"
+  },
+  "lottery": {
+    "url": "https://www.hz-notary.com/lottery/detail?lottery.id=0cd6fae71f6f4ebda669bc73c3f8d3fe",
+    "items": [
+      {
+        "title": "“中天珺府92幢”销售公开摇号公告",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=58d556fbb8ba40fa8a41620fd36f468e",
+        "datetime": "2019-09-04 08:34:47"
+      },
+      {
+        "title": "“中天珺府92幢”购房意向登记汇总表",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=a1628e7f53ea495289d00372ab1a2c47",
+        "datetime": "2019-09-04 08:40:12"
+      },
+      {
+        "title": "“中天珺府92幢”销售公开摇号结果",
+        "url": "https://www.hz-notary.com/lottery/detail_content?lotteryContent.id=d1f52a2b026045e187e1e57e07799657",
+        "datetime": "2019-09-05 10:36:28"
+      }
+    ]
+  },
+  "summary": "http://down.hz-notary.com:10006/pdf/2019/0904/190904083950514_21942167841677762.pdf",
+  "result": "http://down.hz-notary.com:10006/pdf/2019/0905/190905103621279_22035558597967541.pdf"
+}
